@@ -1,0 +1,13 @@
+{
+  "vendor": "stmicroelectronics",
+  "project": "soot_detector",
+  "platform": "STM32H7S78-DK",
+  "mcu_family": "STM32H7RS",
+  "documents": [
+    "platforms/STM32H7S78-DK/pdf/stm32h7s78-dk.pdf",
+    "platforms/STM32H7S78-DK/pdf/discovery-kit-with-stm32h7s7l8.pdf",
+    "platforms/STM32H7S78-DK/pdf/mb1736-h7s7l8-schematic.pdf",
+    "mcus/STM32H7RS/pdf/rm0477-stm32h7rx7sx.pdf",
+    "mcus/STM32H7S3A8/pdf/stm32h7s3a8.pdf"
+  ]
+}

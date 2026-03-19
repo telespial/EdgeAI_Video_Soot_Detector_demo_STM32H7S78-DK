@@ -1,0 +1,15 @@
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:140:9:BSP_GetVersion	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:149:16:BSP_GetBoardName	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:158:16:BSP_GetBoardID	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:173:10:BSP_LED_Init	12
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:269:9:BSP_LED_DeInit	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:293:9:BSP_LED_On	2
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:319:9:BSP_LED_Off	2
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:345:9:BSP_LED_Toggle	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:361:9:BSP_LED_GetState	2
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:387:9:BSP_PB_Init	2
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:435:9:BSP_PB_DeInit	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:454:9:BSP_PB_GetState	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:463:6:BSP_PB_IRQHandler	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:471:13:BUTTON_USER_EXTI_Callback	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery.c:480:13:BSP_PB_Callback	1

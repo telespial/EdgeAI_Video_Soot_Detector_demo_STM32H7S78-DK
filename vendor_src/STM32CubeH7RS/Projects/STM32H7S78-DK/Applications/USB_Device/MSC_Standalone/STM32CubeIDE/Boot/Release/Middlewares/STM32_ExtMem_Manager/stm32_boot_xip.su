@@ -1,0 +1,3 @@
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_xip.c:87:20:MapMemory	8	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_xip.c:120:20:JumpToApplication	24	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_xip.c:60:20:BOOT_Application	8	static

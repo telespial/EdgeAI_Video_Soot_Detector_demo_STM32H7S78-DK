@@ -1,0 +1,9 @@
+{
+  "profile": "default",
+  "frame_resize": { "width": 320, "height": 240 },
+  "regions": [
+    { "name": "center", "x": 0.25, "y": 0.25, "w": 0.5, "h": 0.5 },
+    { "name": "upper_left", "x": 0.0, "y": 0.0, "w": 0.25, "h": 0.25 },
+    { "name": "upper_right", "x": 0.75, "y": 0.0, "w": 0.25, "h": 0.25 }
+  ]
+}

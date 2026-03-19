@@ -1,0 +1,16 @@
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:187:9:BSP_I2C1_Init	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:238:9:BSP_I2C1_DeInit	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:266:26:MX_I2C1_Init	24	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:312:9:BSP_I2C1_WriteReg	40	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:349:9:BSP_I2C1_ReadReg	40	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:386:9:BSP_I2C1_WriteReg16	40	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:423:9:BSP_I2C1_ReadReg16	40	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:459:9:BSP_I2C1_IsReady	24	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:481:9:BSP_GetTick	8	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:569:17:I2C_GetTiming	32	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:607:13:I2C_Compute_PRESC_SCLDEL_SDADEL	64	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:694:17:I2C_Compute_SCLL_SCLH	80	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:774:13:I2C1_MspInit	48	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:816:13:I2C1_MspDeInit	40	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:842:16:I2C1_WriteReg	40	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:861:16:I2C1_ReadReg	40	static

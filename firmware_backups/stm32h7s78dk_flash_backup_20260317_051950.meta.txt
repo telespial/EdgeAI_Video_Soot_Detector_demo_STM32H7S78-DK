@@ -1,0 +1,22 @@
+[36m[01m      -------------------------------------------------------------------
+[39;49m[0m[36m[01m                        STM32CubeProgrammer v2.22.0                  
+[39;49m[0m[36m[01m      -------------------------------------------------------------------
+
+[39;49m[0m[90mST-LINK SN  : 0046001D3033511935393935
+[39;49m[0m[90mST-LINK FW  : V3J13M4
+[39;49m[0m[90mBoard       : STM32H7S78-DK
+[39;49m[0m[90mVoltage     : 3.29V
+[39;49m[0m[39;49m[0m[90mSWD freq    : 8000 KHz
+[39;49m[0m[90mConnect mode: Under Reset
+[39;49m[0m[90mReset mode  : Hardware reset
+[39;49m[0m[90mDevice ID   : 0x485
+[39;49m[0m[90mRevision ID : Rev Y
+[39;49m[0m[39;49m[0m[39;49mDevice name : STM32H7RSxx
+[39;49m[0m[39;49mNVM size  : 64 KBytes (default)
+[39;49m[0m[39;49mDevice type : MCU
+[39;49m[0m[39;49mDevice CPU  : Cortex-M7
+[39;49m[0m[39;49mBL Version  : 0xE3
+[39;49m[0m[39;49m
+[39;49m[0m[90mMemory checksum calculating ...
+[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0m[39;49m[0mMemory [0x08000000 : 0x08010000] - Checksum : 0x0087D4CF
+[39;49m[0m[39;49m[0m2e654b5e6938234ff137c22a6892821e4bbda35581c3fbf30ea5e2fc0db1fd05  /home/user/python_projects/EmbeddedX/projects/soot_detector/firmware_backups/stm32h7s78dk_flash_backup_20260317_051950.bin

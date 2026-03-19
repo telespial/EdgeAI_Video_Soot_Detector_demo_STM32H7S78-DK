@@ -1,0 +1,10 @@
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_usb_if.c:121:9:USBPD_USBIF_Init	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_usb_if.c:132:6:USBPD_USBIF_DeviceStart	8	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_usb_if.c:142:6:USBPD_USBIF_DeviceStop	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_usb_if.c:153:6:USBPD_USBIF_HostStart	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_usb_if.c:160:6:USBPD_USBIF_HostStop	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_usb_if.c:167:6:USBPD_USBIF_DeviceBillboard	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_usb_if.c:174:6:USBPD_USBIF_Swap2Host	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_usb_if.c:181:6:USBPD_USBIF_Swap2Device	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_usb_if.c:188:6:USBPD_USBIF_DeviceSetBOSInfo	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_usb_if.c:195:6:USBPD_USBIF_DeviceSetVDMInfo	16	static

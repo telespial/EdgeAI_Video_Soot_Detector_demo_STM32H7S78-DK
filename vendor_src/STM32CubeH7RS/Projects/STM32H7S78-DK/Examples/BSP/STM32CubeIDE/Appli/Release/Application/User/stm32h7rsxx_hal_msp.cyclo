@@ -1,0 +1,4 @@
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/stm32h7rsxx_hal_msp.c:45:6:HAL_MspInit	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/stm32h7rsxx_hal_msp.c:56:6:HAL_MspDeInit	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/stm32h7rsxx_hal_msp.c:71:19:MX_I2S6_ClockConfig	2
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/stm32h7rsxx_hal_msp.c:121:19:MX_ADF1_ClockConfig	1

@@ -1,0 +1,2027 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-atexit.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o (atexit)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-exit.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o (exit)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fwalk.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o) (__sread)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memset.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o (memset)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-closer.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o) (_close_r)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-reent.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-closer.o) (errno)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-impure.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-reent.o) (_impure_ptr)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lseekr.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o) (_lseek_r)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-readr.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o) (_read_r)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-writer.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o) (_write_r)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-errno.o)
+                              ./Application/User/syscalls.o (__errno)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-init.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o (__libc_init_array)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fini.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o (__libc_fini_array)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+                              ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o (memcpy)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__atexit.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-atexit.o) (__register_exitproc)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__call_atexit.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__atexit.o) (__call_exitprocs)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-freer.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-reent.o) (_free_r)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mallocr.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o) (_malloc_r)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mlock.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-freer.o) (__malloc_lock)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fflush.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o) (_fflush_r)
+/home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-sbrkr.o)
+                              /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crti.o
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crti.o
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crti.o
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .text          0x00000000       0x70 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x1e /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .text          0x00000000       0x14 ./Application/Startup/startup_stm32h7s7l8hxh.o
+ .data          0x00000000        0x0 ./Application/Startup/startup_stm32h7s7l8hxh.o
+ .bss           0x00000000        0x0 ./Application/Startup/startup_stm32h7s7l8hxh.o
+ .text          0x00000000        0x0 ./Application/User/extmem_manager.o
+ .data          0x00000000        0x0 ./Application/User/extmem_manager.o
+ .bss           0x00000000        0x0 ./Application/User/extmem_manager.o
+ .text          0x00000000        0x0 ./Application/User/main.o
+ .data          0x00000000        0x0 ./Application/User/main.o
+ .bss           0x00000000        0x0 ./Application/User/main.o
+ .text          0x00000000        0x0 ./Application/User/stm32h7rsxx_hal_msp.o
+ .data          0x00000000        0x0 ./Application/User/stm32h7rsxx_hal_msp.o
+ .bss           0x00000000        0x0 ./Application/User/stm32h7rsxx_hal_msp.o
+ .text.HAL_XSPI_MspDeInit
+                0x00000000       0x94 ./Application/User/stm32h7rsxx_hal_msp.o
+ .text          0x00000000        0x0 ./Application/User/stm32h7rsxx_it.o
+ .data          0x00000000        0x0 ./Application/User/stm32h7rsxx_it.o
+ .bss           0x00000000        0x0 ./Application/User/stm32h7rsxx_it.o
+ .text          0x00000000        0x0 ./Application/User/syscalls.o
+ .data          0x00000000        0x0 ./Application/User/syscalls.o
+ .bss           0x00000000        0x0 ./Application/User/syscalls.o
+ .text.initialise_monitor_handles
+                0x00000000        0x2 ./Application/User/syscalls.o
+ .text._getpid  0x00000000        0x4 ./Application/User/syscalls.o
+ .text._kill    0x00000000       0x10 ./Application/User/syscalls.o
+ .text._exit    0x00000000        0xc ./Application/User/syscalls.o
+ .text._read    0x00000000       0x1c ./Application/User/syscalls.o
+ .text._write   0x00000000       0x1c ./Application/User/syscalls.o
+ .text._close   0x00000000        0x6 ./Application/User/syscalls.o
+ .text._fstat   0x00000000        0xa ./Application/User/syscalls.o
+ .text._isatty  0x00000000        0x4 ./Application/User/syscalls.o
+ .text._lseek   0x00000000        0x4 ./Application/User/syscalls.o
+ .text._open    0x00000000        0xa ./Application/User/syscalls.o
+ .text._wait    0x00000000       0x10 ./Application/User/syscalls.o
+ .text._unlink  0x00000000       0x10 ./Application/User/syscalls.o
+ .text._times   0x00000000        0x6 ./Application/User/syscalls.o
+ .text._stat    0x00000000        0xa ./Application/User/syscalls.o
+ .text._link    0x00000000       0x10 ./Application/User/syscalls.o
+ .text._fork    0x00000000       0x10 ./Application/User/syscalls.o
+ .text._execve  0x00000000       0x10 ./Application/User/syscalls.o
+ .data.environ  0x00000000        0x4 ./Application/User/syscalls.o
+ .bss.__env     0x00000000        0x4 ./Application/User/syscalls.o
+ .comment       0x00000000       0x3a ./Application/User/syscalls.o
+ .ARM.attributes
+                0x00000000       0x32 ./Application/User/syscalls.o
+ .text          0x00000000        0x0 ./Application/User/sysmem.o
+ .data          0x00000000        0x0 ./Application/User/sysmem.o
+ .bss           0x00000000        0x0 ./Application/User/sysmem.o
+ .text._sbrk    0x00000000       0x3c ./Application/User/sysmem.o
+ .bss.__sbrk_heap_end
+                0x00000000        0x4 ./Application/User/sysmem.o
+ .comment       0x00000000       0x3a ./Application/User/sysmem.o
+ .ARM.attributes
+                0x00000000       0x32 ./Application/User/sysmem.o
+ .text          0x00000000        0x0 ./Drivers/CMSIS/system_stm32h7rsxx.o
+ .data          0x00000000        0x0 ./Drivers/CMSIS/system_stm32h7rsxx.o
+ .bss           0x00000000        0x0 ./Drivers/CMSIS/system_stm32h7rsxx.o
+ .text.SystemCoreClockUpdate
+                0x00000000      0x13c ./Drivers/CMSIS/system_stm32h7rsxx.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_MspInit
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_MspDeInit
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_DeInit
+                0x00000000       0x8c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_GetTickPrio
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SetTickFreq
+                0x00000000       0x28 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_GetTickFreq
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_ResumeTick
+                0x00000000        0xe ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_GetREVID
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_GetDEVID
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_GetUIDw0
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_GetUIDw1
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_GetUIDw2
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_GetBootAddress
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_IncrementHDPLValue
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_GetHDPLValue
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_OpenAccessPort
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_OpenDebug
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_ConfigDebugLevel
+                0x00000000       0x20 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_GetDebugLevel
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_UnlockDebugConfig
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_LockDebugConfig
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_ConfigRSSCommand
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_GetRSSCommand
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_EnableIOAnalogBooster
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_DisableIOAnalogBooster
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_EnableIOAnalogSwitchVdd
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_DisableIOAnalogSwitchVdd
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_ConfigEthernetPHY
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_ConfigAXISRAMWaitState
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_DisableCompensationCell
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_GetCompensationCell
+                0x00000000       0x58 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_DisableIOSpeedOptimize
+                0x00000000        0x4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_ConfigTimerBreakInput
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_GetTimerBreakInputConfig
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_EXTIConfig
+                0x00000000       0x26 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_SBS_GetEXTIConfig
+                0x00000000       0x20 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_VREFBUF_VoltageScalingConfig
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_VREFBUF_HighImpedanceConfig
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_VREFBUF_TrimmingConfig
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_VREFBUF_Enable
+                0x00000000       0x30 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_VREFBUF_Disable
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_AXIM_ASIB_EnablePacking
+                0x00000000        0x6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_AXIM_ASIB_DisablePacking
+                0x00000000        0x6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_AXIM_ASIB_IssuingConfig
+                0x00000000        0x8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_AXIM_ASIB_ReadQoSConfig
+                0x00000000        0x6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_AXIM_ASIB_WriteQoSConfig
+                0x00000000        0x6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_AXIM_AMIB_EnablePacking
+                0x00000000        0x6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_AXIM_AMIB_DisablePacking
+                0x00000000        0x6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_AXIM_AMIB_IssuingConfig
+                0x00000000        0x8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_AXIM_AMIB_IssuingConfigBusMatrix
+                0x00000000        0x6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_AXIM_AMIB_EnableLongBurst
+                0x00000000        0x6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_AXIM_AMIB_DisableLongBurst
+                0x00000000        0x6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_FMC_SetBankSwapConfig
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text.HAL_FMC_GetBankSwapConfig
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x58 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_MPU_EnableRegion
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text.HAL_CORTEX_ClearEvent
+                0x00000000        0x6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_Init
+                0x00000000      0x2bc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_DeInit
+                0x00000000       0xb4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_Start
+                0x00000000       0x56 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_Start_IT
+                0x00000000       0x78 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0x2a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x114 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_IRQHandler
+                0x00000000      0x17c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x38 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x4c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_GetState
+                0x00000000        0x6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_ConfigChannelAttributes
+                0x00000000       0x3c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_GetConfigChannelAttributes
+                0x00000000       0x3c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_LockChannelAttributes
+                0x00000000       0x2a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text.HAL_DMA_GetLockChannelAttributes
+                0x00000000       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.DMA_List_CheckNodesBaseAddresses
+                0x00000000       0x1e ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.DMA_List_CheckNodesTypes
+                0x00000000       0x34 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.DMA_List_FindNode
+                0x00000000       0xac ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.DMA_List_UpdateDynamicQueueNodesCLLR
+                0x00000000       0x9c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.DMA_List_UpdateStaticQueueNodesCLLR
+                0x00000000       0x70 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_Init
+                0x00000000      0x18c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_DeInit
+                0x00000000       0xc0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_Start
+                0x00000000       0x90 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_Start_IT
+                0x00000000       0xb0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_BuildNode
+                0x00000000      0x13c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_GetNodeConfig
+                0x00000000       0xf4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_InsertNode
+                0x00000000       0xe8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_InsertNode_Head
+                0x00000000       0x78 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_InsertNode_Tail
+                0x00000000       0x90 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_RemoveNode
+                0x00000000       0xec ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_RemoveNode_Head
+                0x00000000       0x9e ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_RemoveNode_Tail
+                0x00000000       0x7a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_ReplaceNode
+                0x00000000      0x118 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_ReplaceNode_Head
+                0x00000000       0x9c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_ReplaceNode_Tail
+                0x00000000       0x94 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_ResetQ
+                0x00000000       0x84 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_InsertQ
+                0x00000000      0x198 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_InsertQ_Head
+                0x00000000       0xec ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_InsertQ_Tail
+                0x00000000       0xf4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_SetCircularModeConfig
+                0x00000000       0x84 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_SetCircularMode
+                0x00000000       0x6c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_ClearCircularMode
+                0x00000000       0x54 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_ConvertQToDynamic
+                0x00000000      0x19c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_ConvertQToStatic
+                0x00000000      0x120 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_LinkQ
+                0x00000000       0x90 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_List_UnLinkQ
+                0x00000000       0x2a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_ConfigDataHandling
+                0x00000000       0x34 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_ConfigTrigger
+                0x00000000       0x3c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_ConfigRepeatBlock
+                0x00000000       0x70 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_Suspend
+                0x00000000       0x5e ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_Suspend_IT
+                0x00000000       0x2a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_Resume
+                0x00000000       0x34 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text.HAL_DMAEx_GetFifoLevel
+                0x00000000        0xa ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .rodata        0x00000000       0x20 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .comment       0x00000000       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .ARM.attributes
+                0x00000000       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000       0xa6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0x9c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0x82 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000        0xe ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .text.HAL_EXTI_GetHandle
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x28 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x20 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x1a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .comment       0x00000000       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .ARM.attributes
+                0x00000000       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.FLASH_Program_Byte
+                0x00000000       0x30 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.FLASH_Program_HalfWord
+                0x00000000       0x30 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.FLASH_Program_Word
+                0x00000000       0x34 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.FLASH_Program_DoubleWord
+                0x00000000       0x38 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.FLASH_Program_QuadWord
+                0x00000000       0x30 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.FLASH_Program_OTPHalfWord
+                0x00000000       0x30 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.FLASH_Program_OTPWord
+                0x00000000       0x34 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.HAL_FLASH_IRQHandler
+                0x00000000       0xe4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.HAL_FLASH_Lock
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x2c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x20 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x70 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.HAL_FLASH_Program
+                0x00000000       0xc4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0xcc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .bss.pFlash    0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .comment       0x00000000       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .ARM.attributes
+                0x00000000       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000      0x1cc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x60 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OTPLockConfig
+                0x00000000       0x70 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_GetOTPLock
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_KeyConfig
+                0x00000000       0xcc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_GetKey
+                0x00000000       0xc8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_ComputeCRC
+                0x00000000      0x118 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_EnableEccCorrectionInterrupt
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_DisableEccCorrectionInterrupt
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_EnableEccDetectionInterrupt
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_DisableEccDetectionInterrupt
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_GetEccInfo
+                0x00000000       0x50 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_EccCorrectionCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_EccDetectionCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_ECCD_IRQHandler
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.FLASH_SectorErase
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0x94 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x5c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .comment       0x00000000       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .ARM.attributes
+                0x00000000       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .text.HAL_GPIO_DeInit
+                0x00000000       0xd0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .text.HAL_GPIO_WritePin
+                0x00000000        0xa ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .text.HAL_GPIO_WriteMultipleStatePin
+                0x00000000        0x8 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x12 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_DeInit
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x8c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_EnablePVD
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_DisablePVD
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x40 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x28 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .comment       0x00000000       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .ARM.attributes
+                0x00000000       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetSupplyConfig
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_ControlStopModeVoltageScaling
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetStopModeVoltageRange
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableWakeUpPin
+                0x00000000       0x80 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableWakeUpPin
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetWakeupFlag
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_ClearWakeupFlag
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_WKUP1_Callback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_WKUP2_Callback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_WKUP3_Callback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_WKUP4_Callback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_WAKEUP_PIN_IRQHandler
+                0x00000000       0x54 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableBkUpReg
+                0x00000000       0x30 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableBkUpReg
+                0x00000000       0x30 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableUSBReg
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableUSBReg
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableUSBVoltageDetector
+                0x00000000       0x30 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableUSBVoltageDetector
+                0x00000000       0x30 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableUSBHSregulator
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableUCPDStandbyMode
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableUCPDStandbyMode
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableUCPDDeadBattery
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableUCPDDeadBattery
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableBatteryCharging
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableBatteryCharging
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableAnalogBooster
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableAnalogBooster
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableXSPIM1
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableXSPIM2
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_ConfigXSPIPortCap
+                0x00000000       0x20 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetConfigXSPIPortCap
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableMonitoring
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableMonitoring
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetTemperatureLevel
+                0x00000000       0x20 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetVBATLevel
+                0x00000000       0x20 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_ConfigAVD
+                0x00000000       0x88 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableAVD
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableAVD
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_PVD_AVD_Callback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_PVD_AVD_IRQHandler
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnablePullUpPullDownConfig
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisablePullUpPullDownConfig
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableGPIOPullUp
+                0x00000000       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableGPIOPullUp
+                0x00000000       0x28 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableGPIOPullDown
+                0x00000000       0x34 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableGPIOPullDown
+                0x00000000       0x38 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x6c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_DisableCSS
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_DeInit
+                0x00000000      0x1ac ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_GetPCLK5Freq
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_GetPLL1PFreq
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_GetPLL1RFreq
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_GetPLL1SFreq
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_GetOscConfig
+                0x00000000      0x174 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x54 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_HSECSSCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_LSECSSCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_GetResetSource
+                0x00000000       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000      0x164 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_DisableClockProtection
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_EnableLSECSS
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_DisableLSECSS
+                0x00000000       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_EnableLSECSS_IT
+                0x00000000       0x30 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_WakeUpStopCLKConfig
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_KerWakeUpStopCLKConfig
+                0x00000000       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_LSECSS_Callback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_LSECSS_IRQHandler
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRSConfig
+                0x00000000       0x54 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate
+                0x00000000       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRSGetSynchronizationInfo
+                0x00000000       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRSWaitSynchronization
+                0x00000000       0x8c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRS_SyncOkCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRS_SyncWarnCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRS_ExpectedSyncCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRS_ErrorCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRS_IRQHandler
+                0x00000000       0x74 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.XSPI_DMACplt
+                0x00000000       0x1a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_MspInit
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_MspDeInit
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_DeInit
+                0x00000000       0x26 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_Command_IT
+                0x00000000       0x5c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_HyperbusCfg
+                0x00000000       0x50 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_HyperbusCmd
+                0x00000000       0x78 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_Transmit_IT
+                0x00000000       0x3e ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_Receive_IT
+                0x00000000       0x64 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_Transmit_DMA
+                0x00000000      0x120 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_Receive_DMA
+                0x00000000      0x150 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_AutoPolling_IT
+                0x00000000       0x8c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_IsMemoryMapped
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_ErrorCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_AbortCpltCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.XSPI_DMAAbortCplt
+                0x00000000       0x44 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_FifoThresholdCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_CmdCpltCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_RxCpltCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_TxCpltCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_RxHalfCpltCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_TxHalfCpltCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.XSPI_DMAHalfCplt
+                0x00000000       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_StatusMatchCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_TimeOutCallback
+                0x00000000        0x2 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_IRQHandler
+                0x00000000      0x16c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_Abort_IT
+                0x00000000       0x94 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.XSPI_DMAError
+                0x00000000       0x34 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_SetFifoThreshold
+                0x00000000       0x26 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_GetFifoThreshold
+                0x00000000        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_SetMemoryType
+                0x00000000       0x22 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_SetDeviceSize
+                0x00000000       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_SetClockPrescaler
+                0x00000000       0x22 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_SetTimeout
+                0x00000000        0x6 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_GetError
+                0x00000000        0x4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_GetState
+                0x00000000        0x4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_GetDelayValue
+                0x00000000       0x68 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.HAL_XSPI_SetDelayValue
+                0x00000000       0x8c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_ll_exti.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_ll_exti.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_ll_exti.o
+ .comment       0x00000000       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_ll_exti.o
+ .ARM.attributes
+                0x00000000       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_ll_exti.o
+ .text          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_ll_rcc.o
+ .data          0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_ll_rcc.o
+ .bss           0x00000000        0x0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_ll_rcc.o
+ .comment       0x00000000       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_ll_rcc.o
+ .ARM.attributes
+                0x00000000       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_ll_rcc.o
+ .text          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_boot_xip.o
+ .data          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_boot_xip.o
+ .bss           0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_boot_xip.o
+ .text          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+ .data          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+ .bss           0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+ .text.EXTMEM_Read
+                0x00000000       0x3c ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+ .text.EXTMEM_Write
+                0x00000000       0x3c ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+ .text.EXTMEM_WriteInMappedMode
+                0x00000000       0x3c ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+ .text.EXTMEM_EraseSector
+                0x00000000       0xc0 ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+ .text.EXTMEM_EraseAll
+                0x00000000       0x3c ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+ .text.EXTMEM_GetInfo
+                0x00000000       0x34 ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+ .text          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o
+ .data          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o
+ .bss           0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o
+ .text          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_sd.o
+ .data          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_sd.o
+ .bss           0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_sd.o
+ .comment       0x00000000       0x3a ./Middlewares/STM32_ExtMem_Manager/stm32_sal_sd.o
+ .ARM.attributes
+                0x00000000       0x32 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_sd.o
+ .text          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+ .data          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+ .bss           0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+ .text.SAL_XSPI_CommandSendAddress
+                0x00000000       0x54 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+ .text          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sdcard_driver.o
+ .data          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sdcard_driver.o
+ .bss           0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sdcard_driver.o
+ .comment       0x00000000       0x3a ./Middlewares/STM32_ExtMem_Manager/stm32_sdcard_driver.o
+ .ARM.attributes
+                0x00000000       0x32 ./Middlewares/STM32_ExtMem_Manager/stm32_sdcard_driver.o
+ .text          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ .data          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ .bss           0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ .text          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .data          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .bss           0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .text.driver_set_FlagWEL.constprop.0
+                0x00000000       0x5c ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .text.EXTMEM_DRIVER_NOR_SFDP_GetFlashInfo
+                0x00000000       0x44 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .text.EXTMEM_DRIVER_NOR_SFDP_Read
+                0x00000000       0x3c ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .text.EXTMEM_DRIVER_NOR_SFDP_Write
+                0x00000000       0x8c ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .text.EXTMEM_DRIVER_NOR_SFDP_MassErase
+                0x00000000       0x44 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .text.EXTMEM_DRIVER_NOR_SFDP_SectorErase
+                0x00000000       0x9a ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .text.EXTMEM_MemCopy
+                0x00000000       0x32 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .text.EXTMEM_DRIVER_NOR_SFDP_WriteInMappedMode
+                0x00000000      0x190 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .text          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_user_driver.o
+ .data          0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_user_driver.o
+ .bss           0x00000000        0x0 ./Middlewares/STM32_ExtMem_Manager/stm32_user_driver.o
+ .comment       0x00000000       0x3a ./Middlewares/STM32_ExtMem_Manager/stm32_user_driver.o
+ .ARM.attributes
+                0x00000000       0x32 ./Middlewares/STM32_ExtMem_Manager/stm32_user_driver.o
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-atexit.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-atexit.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-atexit.o)
+ .text.atexit   0x00000000        0xc /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-atexit.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-atexit.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x24 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-exit.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x40 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3c /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fwalk.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x26 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-closer.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xbc /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-reent.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-impure.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lseekr.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-readr.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-writer.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-errno.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-errno.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-errno.o)
+ .text.__errno  0x00000000        0xc /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-errno.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-errno.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fini.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fini.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x28 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fini.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fini.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__atexit.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xb4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__atexit.o)
+ .bss.__atexit0
+                0x00000000       0x8c /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__atexit.o)
+ .data.__atexit_dummy
+                0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__atexit.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__atexit.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xbc /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .bss.__atexit  0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .data.__atexit_recursive_mutex
+                0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x94 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-freer.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x100 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mallocr.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mlock.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x104 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fflush.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtend.o
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtend.o
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtend.o
+ .comment       0x00000000       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtend.o
+ .text          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtn.o
+ .data          0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtn.o
+ .bss           0x00000000        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x24000000         0x00071c00         xrw
+ITCM             0x00000000         0x00010000         xrw
+DTCM             0x20000000         0x00010000         rw
+SRAMAHB          0x30000000         0x00008000         rw
+BKPSRAM          0x38800000         0x00001000         rw
+FLASH            0x08000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crti.o
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+LOAD ./Application/Startup/startup_stm32h7s7l8hxh.o
+LOAD ./Application/User/extmem_manager.o
+LOAD ./Application/User/main.o
+LOAD ./Application/User/stm32h7rsxx_hal_msp.o
+LOAD ./Application/User/stm32h7rsxx_it.o
+LOAD ./Application/User/syscalls.o
+LOAD ./Application/User/sysmem.o
+LOAD ./Drivers/CMSIS/system_stm32h7rsxx.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma_ex.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_exti.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_flash_ex.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_ll_exti.o
+LOAD ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_ll_rcc.o
+LOAD ./Middlewares/STM32_ExtMem_Manager/stm32_boot_xip.o
+LOAD ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+LOAD ./Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o
+LOAD ./Middlewares/STM32_ExtMem_Manager/stm32_sal_sd.o
+LOAD ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+LOAD ./Middlewares/STM32_ExtMem_Manager/stm32_sdcard_driver.o
+LOAD ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+LOAD ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+LOAD ./Middlewares/STM32_ExtMem_Manager/stm32_user_driver.o
+START GROUP
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libm.a
+END GROUP
+START GROUP
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/libgcc.a
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/libgcc.a
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/libgcc.a
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a
+END GROUP
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtend.o
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtn.o
+                0x20010000                        _estack = (ORIGIN (DTCM) + LENGTH (DTCM))
+                0x00000200                        _Min_Heap_Size = 0x200
+                0x00000400                        _Min_Stack_Size = 0x400
+                0x08000000                        __FLASH_BEGIN = 0x8000000
+                0x00010000                        __FLASH_SIZE = 0x10000
+                0x24000000                        __RAM_BEGIN = 0x24000000
+                0x00071c00                        __RAM_SIZE = 0x71c00
+
+.isr_vector     0x08000000      0x2b0
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x2b0 ./Application/Startup/startup_stm32h7s7l8hxh.o
+                0x08000000                g_pfnVectors
+                0x080002b0                        . = ALIGN (0x4)
+
+.text           0x080002b0     0x5074
+                0x080002b0                        . = ALIGN (0x4)
+ *(.text)
+ *(.text*)
+ .text.__do_global_dtors_aux
+                0x080002b0       0x24 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .text.frame_dummy
+                0x080002d4       0x1c /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .text.Reset_Handler
+                0x080002f0       0x50 ./Application/Startup/startup_stm32h7s7l8hxh.o
+                0x080002f0                Reset_Handler
+ .text.Default_Handler
+                0x08000340        0x2 ./Application/Startup/startup_stm32h7s7l8hxh.o
+                0x08000340                HPDMA1_Channel13_IRQHandler
+                0x08000340                EXTI2_IRQHandler
+                0x08000340                MCE2_IRQHandler
+                0x08000340                SAI1_A_IRQHandler
+                0x08000340                EXTI5_IRQHandler
+                0x08000340                I3C1_ER_IRQHandler
+                0x08000340                UART8_IRQHandler
+                0x08000340                SPI4_IRQHandler
+                0x08000340                EXTI13_IRQHandler
+                0x08000340                TIM1_CC_IRQHandler
+                0x08000340                XSPI1_IRQHandler
+                0x08000340                JPEG_IRQHandler
+                0x08000340                TAMP_IRQHandler
+                0x08000340                TIM6_IRQHandler
+                0x08000340                EXTI12_IRQHandler
+                0x08000340                CORDIC_IRQHandler
+                0x08000340                GFXTIM_IRQHandler
+                0x08000340                EXTI3_IRQHandler
+                0x08000340                LPTIM4_IRQHandler
+                0x08000340                GPDMA1_Channel5_IRQHandler
+                0x08000340                EXTI8_IRQHandler
+                0x08000340                LPTIM2_IRQHandler
+                0x08000340                GFXMMU_IRQHandler
+                0x08000340                I2C3_ER_IRQHandler
+                0x08000340                LPTIM3_IRQHandler
+                0x08000340                SAI2_A_IRQHandler
+                0x08000340                EXTI0_IRQHandler
+                0x08000340                HPDMA1_Channel9_IRQHandler
+                0x08000340                I2C2_EV_IRQHandler
+                0x08000340                GPU2D_IRQHandler
+                0x08000340                FPU_IRQHandler
+                0x08000340                GPDMA1_Channel3_IRQHandler
+                0x08000340                GPDMA1_Channel7_IRQHandler
+                0x08000340                FDCAN1_IT1_IRQHandler
+                0x08000340                HPDMA1_Channel3_IRQHandler
+                0x08000340                LTDC_ER_IRQHandler
+                0x08000340                ADC1_2_IRQHandler
+                0x08000340                GPDMA1_Channel9_IRQHandler
+                0x08000340                SPI1_IRQHandler
+                0x08000340                SAI1_B_IRQHandler
+                0x08000340                GPDMA1_Channel2_IRQHandler
+                0x08000340                I3C1_WKUP_IRQHandler
+                0x08000340                PKA_IRQHandler
+                0x08000340                HPDMA1_Channel2_IRQHandler
+                0x08000340                EXTI15_IRQHandler
+                0x08000340                TIM17_IRQHandler
+                0x08000340                USART3_IRQHandler
+                0x08000340                HPDMA1_Channel6_IRQHandler
+                0x08000340                CRYP_IRQHandler
+                0x08000340                RTC_IRQHandler
+                0x08000340                XSPI2_IRQHandler
+                0x08000340                EXTI9_IRQHandler
+                0x08000340                HPDMA1_Channel0_IRQHandler
+                0x08000340                LPTIM5_IRQHandler
+                0x08000340                HPDMA1_Channel1_IRQHandler
+                0x08000340                UART5_IRQHandler
+                0x08000340                TIM4_IRQHandler
+                0x08000340                I2C1_EV_IRQHandler
+                0x08000340                GPDMA1_Channel12_IRQHandler
+                0x08000340                HPDMA1_Channel7_IRQHandler
+                0x08000340                GPDMA1_Channel1_IRQHandler
+                0x08000340                TIM16_IRQHandler
+                0x08000340                GPDMA1_Channel15_IRQHandler
+                0x08000340                UART4_IRQHandler
+                0x08000340                TIM3_IRQHandler
+                0x08000340                RCC_IRQHandler
+                0x08000340                TIM1_TRG_COM_IRQHandler
+                0x08000340                SAI2_B_IRQHandler
+                0x08000340                Default_Handler
+                0x08000340                GPDMA1_Channel8_IRQHandler
+                0x08000340                HPDMA1_Channel8_IRQHandler
+                0x08000340                CEC_IRQHandler
+                0x08000340                TIM14_IRQHandler
+                0x08000340                TIM13_IRQHandler
+                0x08000340                GPDMA1_Channel11_IRQHandler
+                0x08000340                GPU2D_ER_IRQHandler
+                0x08000340                SPI5_IRQHandler
+                0x08000340                TIM12_IRQHandler
+                0x08000340                TIM7_IRQHandler
+                0x08000340                HPDMA1_Channel10_IRQHandler
+                0x08000340                SDMMC1_IRQHandler
+                0x08000340                SAES_IRQHandler
+                0x08000340                TIM5_IRQHandler
+                0x08000340                UCPD1_IRQHandler
+                0x08000340                GPDMA1_Channel0_IRQHandler
+                0x08000340                I3C1_EV_IRQHandler
+                0x08000340                HPDMA1_Channel5_IRQHandler
+                0x08000340                TIM15_IRQHandler
+                0x08000340                I2C3_EV_IRQHandler
+                0x08000340                HPDMA1_Channel4_IRQHandler
+                0x08000340                HPDMA1_Channel15_IRQHandler
+                0x08000340                TIM9_IRQHandler
+                0x08000340                LTDC_IRQHandler
+                0x08000340                SPDIF_RX_IRQHandler
+                0x08000340                PVD_PVM_IRQHandler
+                0x08000340                SPI2_IRQHandler
+                0x08000340                HPDMA1_Channel11_IRQHandler
+                0x08000340                EXTI14_IRQHandler
+                0x08000340                EXTI11_IRQHandler
+                0x08000340                CRS_IRQHandler
+                0x08000340                GPDMA1_Channel14_IRQHandler
+                0x08000340                EXTI4_IRQHandler
+                0x08000340                GPDMA1_Channel13_IRQHandler
+                0x08000340                RNG_IRQHandler
+                0x08000340                FDCAN2_IT1_IRQHandler
+                0x08000340                ETH_IRQHandler
+                0x08000340                TIM1_UP_IRQHandler
+                0x08000340                WWDG_IRQHandler
+                0x08000340                SPI6_IRQHandler
+                0x08000340                MDIOS_IRQHandler
+                0x08000340                FDCAN2_IT0_IRQHandler
+                0x08000340                IWDG_IRQHandler
+                0x08000340                HPDMA1_Channel14_IRQHandler
+                0x08000340                LPUART1_IRQHandler
+                0x08000340                FDCAN1_IT0_IRQHandler
+                0x08000340                TIM2_IRQHandler
+                0x08000340                PSSI_IRQHandler
+                0x08000340                MCE3_IRQHandler
+                0x08000340                GPDMA1_Channel4_IRQHandler
+                0x08000340                OTG_HS_IRQHandler
+                0x08000340                EXTI7_IRQHandler
+                0x08000340                DMA2D_IRQHandler
+                0x08000340                TIM1_BRK_IRQHandler
+                0x08000340                EXTI1_IRQHandler
+                0x08000340                SDMMC2_IRQHandler
+                0x08000340                UART7_IRQHandler
+                0x08000340                DTS_IRQHandler
+                0x08000340                USART2_IRQHandler
+                0x08000340                GPDMA1_Channel6_IRQHandler
+                0x08000340                ADF1_FLT0_IRQHandler
+                0x08000340                RAMECC_IRQHandler
+                0x08000340                I2C2_ER_IRQHandler
+                0x08000340                MCE1_IRQHandler
+                0x08000340                HPDMA1_Channel12_IRQHandler
+                0x08000340                FLASH_IRQHandler
+                0x08000340                USART1_IRQHandler
+                0x08000340                EXTI10_IRQHandler
+                0x08000340                OTG_FS_IRQHandler
+                0x08000340                SPI3_IRQHandler
+                0x08000340                WAKEUP_PIN_IRQHandler
+                0x08000340                DCMIPP_IRQHandler
+                0x08000340                I2C1_ER_IRQHandler
+                0x08000340                FMC_IRQHandler
+                0x08000340                EXTI6_IRQHandler
+                0x08000340                LPTIM1_IRQHandler
+                0x08000340                GPDMA1_Channel10_IRQHandler
+                0x08000340                ICACHE_IRQHandler
+                0x08000340                HASH_IRQHandler
+ *fill*         0x08000342        0x2 
+ .text.MX_EXTMEM_MANAGER_Init
+                0x08000344       0x9c ./Application/User/extmem_manager.o
+                0x08000344                MX_EXTMEM_MANAGER_Init
+ .text.SystemClock_Config
+                0x080003e0       0x9c ./Application/User/main.o
+                0x080003e0                SystemClock_Config
+ .text.startup.main
+                0x0800047c      0x248 ./Application/User/main.o
+                0x0800047c                main
+ .text.Error_Handler
+                0x080006c4        0x2 ./Application/User/main.o
+                0x080006c4                Error_Handler
+ *fill*         0x080006c6        0x2 
+ .text.HAL_MspInit
+                0x080006c8       0xa8 ./Application/User/stm32h7rsxx_hal_msp.o
+                0x080006c8                HAL_MspInit
+ .text.HAL_XSPI_MspInit
+                0x08000770      0x170 ./Application/User/stm32h7rsxx_hal_msp.o
+                0x08000770                HAL_XSPI_MspInit
+ .text.NMI_Handler
+                0x080008e0        0x2 ./Application/User/stm32h7rsxx_it.o
+                0x080008e0                NMI_Handler
+ .text.HardFault_Handler
+                0x080008e2        0x2 ./Application/User/stm32h7rsxx_it.o
+                0x080008e2                HardFault_Handler
+ .text.MemManage_Handler
+                0x080008e4        0x2 ./Application/User/stm32h7rsxx_it.o
+                0x080008e4                MemManage_Handler
+ .text.BusFault_Handler
+                0x080008e6        0x2 ./Application/User/stm32h7rsxx_it.o
+                0x080008e6                BusFault_Handler
+ .text.UsageFault_Handler
+                0x080008e8        0x2 ./Application/User/stm32h7rsxx_it.o
+                0x080008e8                UsageFault_Handler
+ .text.SVC_Handler
+                0x080008ea        0x2 ./Application/User/stm32h7rsxx_it.o
+                0x080008ea                SVC_Handler
+ .text.DebugMon_Handler
+                0x080008ec        0x2 ./Application/User/stm32h7rsxx_it.o
+                0x080008ec                DebugMon_Handler
+ .text.PendSV_Handler
+                0x080008ee        0x2 ./Application/User/stm32h7rsxx_it.o
+                0x080008ee                PendSV_Handler
+ .text.SysTick_Handler
+                0x080008f0        0x4 ./Application/User/stm32h7rsxx_it.o
+                0x080008f0                SysTick_Handler
+ .text.SystemInit
+                0x080008f4       0x1c ./Drivers/CMSIS/system_stm32h7rsxx.o
+                0x080008f4                SystemInit
+ .text.HAL_InitTick
+                0x08000910       0x4c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x08000910                HAL_InitTick
+ .text.HAL_Init
+                0x0800095c       0x1e ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x0800095c                HAL_Init
+ *fill*         0x0800097a        0x2 
+ .text.HAL_IncTick
+                0x0800097c       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x0800097c                HAL_IncTick
+ .text.HAL_GetTick
+                0x08000994        0xc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x08000994                HAL_GetTick
+ .text.HAL_Delay
+                0x080009a0       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x080009a0                HAL_Delay
+ .text.HAL_SuspendTick
+                0x080009c4        0xe ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x080009c4                HAL_SuspendTick
+ *fill*         0x080009d2        0x2 
+ .text.HAL_SBS_EnableCompensationCell
+                0x080009d4       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x080009d4                HAL_SBS_EnableCompensationCell
+ .text.HAL_SBS_GetCompensationCellReadyStatus
+                0x080009e8       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x080009e8                HAL_SBS_GetCompensationCellReadyStatus
+ .text.HAL_SBS_ConfigCompensationCell
+                0x080009fc       0x54 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x080009fc                HAL_SBS_ConfigCompensationCell
+ .text.HAL_SBS_EnableIOSpeedOptimize
+                0x08000a50        0x4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x08000a50                HAL_SBS_EnableIOSpeedOptimize
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08000a54       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+                0x08000a54                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08000a78       0x64 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+                0x08000a78                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x08000adc       0x28 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+                0x08000adc                HAL_SYSTICK_Config
+ .text.HAL_MPU_Enable
+                0x08000b04       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+                0x08000b04                HAL_MPU_Enable
+ .text.HAL_MPU_Disable
+                0x08000b28       0x24 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+                0x08000b28                HAL_MPU_Disable
+ .text.HAL_MPU_DisableRegion
+                0x08000b4c       0x18 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+                0x08000b4c                HAL_MPU_DisableRegion
+ .text.HAL_MPU_ConfigRegion
+                0x08000b64       0x64 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+                0x08000b64                HAL_MPU_ConfigRegion
+ .text.HAL_DMA_Abort
+                0x08000bc8       0x94 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+                0x08000bc8                HAL_DMA_Abort
+ .text.HAL_GPIO_Init
+                0x08000c5c      0x148 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+                0x08000c5c                HAL_GPIO_Init
+ .text.HAL_PWREx_ConfigSupply
+                0x08000da4       0x6c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+                0x08000da4                HAL_PWREx_ConfigSupply
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x08000e10       0x34 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+                0x08000e10                HAL_PWREx_ControlVoltageScaling
+ .text.HAL_PWREx_EnableUSBHSregulator
+                0x08000e44       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+                0x08000e44                HAL_PWREx_EnableUSBHSregulator
+ .text.HAL_PWREx_EnableXSPIM1
+                0x08000e54       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+                0x08000e54                HAL_PWREx_EnableXSPIM1
+ .text.HAL_PWREx_EnableXSPIM2
+                0x08000e64       0x10 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+                0x08000e64                HAL_PWREx_EnableXSPIM2
+ .text.RCC_PLL1_GetVCOOutputFreq
+                0x08000e74       0xa4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.RCC_PLL2_GetVCOOutputFreq
+                0x08000f18       0xa4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.RCC_PLL3_GetVCOOutputFreq
+                0x08000fbc       0xa4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.RCC_PLL_Config
+                0x08001060      0x1cc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .text.HAL_RCC_OscConfig
+                0x0800122c      0x434 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x0800122c                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08001660      0x148 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001660                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x080017a8      0x21c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x080017a8                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetHCLKFreq
+                0x080019c4       0x34 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x080019c4                HAL_RCC_GetHCLKFreq
+ .text.HAL_RCC_GetPCLK1Freq
+                0x080019f8       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x080019f8                HAL_RCC_GetPCLK1Freq
+ .text.HAL_RCC_GetPCLK2Freq
+                0x08001a14       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001a14                HAL_RCC_GetPCLK2Freq
+ .text.HAL_RCC_GetPCLK4Freq
+                0x08001a30       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001a30                HAL_RCC_GetPCLK4Freq
+ .text.HAL_RCC_GetPLL1QFreq
+                0x08001a4c       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001a4c                HAL_RCC_GetPLL1QFreq
+ .text.HAL_RCC_GetPLL2PFreq
+                0x08001a68       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001a68                HAL_RCC_GetPLL2PFreq
+ .text.HAL_RCC_GetPLL2QFreq
+                0x08001a84       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001a84                HAL_RCC_GetPLL2QFreq
+ .text.HAL_RCC_GetPLL2RFreq
+                0x08001aa0       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001aa0                HAL_RCC_GetPLL2RFreq
+ .text.HAL_RCC_GetPLL2SFreq
+                0x08001abc       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001abc                HAL_RCC_GetPLL2SFreq
+ .text.HAL_RCC_GetPLL2TFreq
+                0x08001ad8       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001ad8                HAL_RCC_GetPLL2TFreq
+ .text.HAL_RCC_GetPLL3PFreq
+                0x08001af4       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001af4                HAL_RCC_GetPLL3PFreq
+ .text.HAL_RCC_GetPLL3QFreq
+                0x08001b10       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001b10                HAL_RCC_GetPLL3QFreq
+ .text.HAL_RCC_GetPLL3RFreq
+                0x08001b2c       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001b2c                HAL_RCC_GetPLL3RFreq
+ .text.HAL_RCC_GetPLL3SFreq
+                0x08001b48       0x1c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+                0x08001b48                HAL_RCC_GetPLL3SFreq
+ .text.RCC_GetCLKPFreq
+                0x08001b64       0x60 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x08001bc4      0x8f0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+                0x08001bc4                HAL_RCCEx_PeriphCLKConfig
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x080024b4      0xad4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+                0x080024b4                HAL_RCCEx_GetPeriphCLKFreq
+ .text.HAL_RCCEx_EnableClockProtection
+                0x08002f88       0x14 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+                0x08002f88                HAL_RCCEx_EnableClockProtection
+ .text.XSPI_ConfigCmd
+                0x08002f9c      0x1bc ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .text.XSPI_WaitFlagStateUntilTimeout
+                0x08003158       0x4e ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ *fill*         0x080031a6        0x2 
+ .text.HAL_XSPI_Init
+                0x080031a8      0x124 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+                0x080031a8                HAL_XSPI_Init
+ .text.HAL_XSPI_Command
+                0x080032cc       0xa4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+                0x080032cc                HAL_XSPI_Command
+ .text.HAL_XSPI_Transmit
+                0x08003370       0x8c ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+                0x08003370                HAL_XSPI_Transmit
+ .text.HAL_XSPI_Receive
+                0x080033fc       0xb0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+                0x080033fc                HAL_XSPI_Receive
+ .text.HAL_XSPI_AutoPolling
+                0x080034ac       0xae ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+                0x080034ac                HAL_XSPI_AutoPolling
+ .text.HAL_XSPI_MemoryMapped
+                0x0800355a       0x62 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+                0x0800355a                HAL_XSPI_MemoryMapped
+ .text.HAL_XSPI_Abort
+                0x080035bc       0xa0 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+                0x080035bc                HAL_XSPI_Abort
+ .text.HAL_XSPIM_Config
+                0x0800365c      0x160 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+                0x0800365c                HAL_XSPIM_Config
+ .text.MapMemory
+                0x080037bc       0x38 ./Middlewares/STM32_ExtMem_Manager/stm32_boot_xip.o
+                0x080037bc                MapMemory
+ .text.JumpToApplication
+                0x080037f4       0xbc ./Middlewares/STM32_ExtMem_Manager/stm32_boot_xip.o
+                0x080037f4                JumpToApplication
+ .text.BOOT_Application
+                0x080038b0       0x12 ./Middlewares/STM32_ExtMem_Manager/stm32_boot_xip.o
+                0x080038b0                BOOT_Application
+ *fill*         0x080038c2        0x2 
+ .text.EXTMEM_Init
+                0x080038c4       0x50 ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+                0x080038c4                EXTMEM_Init
+ .text.EXTMEM_DeInit
+                0x08003914       0x3c ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+                0x08003914                EXTMEM_DeInit
+ .text.EXTMEM_MemoryMappedMode
+                0x08003950       0x54 ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+                0x08003950                EXTMEM_MemoryMappedMode
+ .text.EXTMEM_GetMapAddress
+                0x080039a4       0x54 ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+                0x080039a4                EXTMEM_GetMapAddress
+ .text.EXTMEM_DRIVER_PSRAM_DeInit
+                0x080039f8        0xa ./Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o
+                0x080039f8                EXTMEM_DRIVER_PSRAM_DeInit
+ .text.EXTMEM_DRIVER_PSRAM_Enable_MemoryMappedMode
+                0x08003a02       0x42 ./Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o
+                0x08003a02                EXTMEM_DRIVER_PSRAM_Enable_MemoryMappedMode
+ .text.EXTMEM_DRIVER_PSRAM_Disable_MemoryMappedMode
+                0x08003a44       0x12 ./Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o
+                0x08003a44                EXTMEM_DRIVER_PSRAM_Disable_MemoryMappedMode
+ .text.PSRAM_ExecuteCommand
+                0x08003a56       0x6c ./Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o
+                0x08003a56                PSRAM_ExecuteCommand
+ .text.EXTMEM_DRIVER_PSRAM_Init
+                0x08003ac2       0x92 ./Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o
+                0x08003ac2                EXTMEM_DRIVER_PSRAM_Init
+ .text.SAL_XSPI_SetClock
+                0x08003b54       0x36 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08003b54                SAL_XSPI_SetClock
+ .text.SAL_XSPI_Init
+                0x08003b8a       0x4c ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08003b8a                SAL_XSPI_Init
+ .text.SAL_XSPI_MemoryConfig
+                0x08003bd6      0x1a6 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08003bd6                SAL_XSPI_MemoryConfig
+ .text.SAL_XSPI_GetSFDP
+                0x08003d7c       0x86 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08003d7c                SAL_XSPI_GetSFDP
+ .text.SAL_XSPI_GetId
+                0x08003e02       0xb0 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08003e02                SAL_XSPI_GetId
+ .text.SAL_XSPI_DisableMapMode
+                0x08003eb2        0xa ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08003eb2                SAL_XSPI_DisableMapMode
+ .text.SAL_XSPI_UpdateMemoryType
+                0x08003ebc       0x32 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08003ebc                SAL_XSPI_UpdateMemoryType
+ .text.SAL_XSPI_Abort
+                0x08003eee        0x6 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08003eee                SAL_XSPI_Abort
+ .text.XSPI_FormatCommand
+                0x08003ef4       0x18 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08003ef4                XSPI_FormatCommand
+ .text.SAL_XSPI_CommandSendData
+                0x08003f0c       0x62 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08003f0c                SAL_XSPI_CommandSendData
+ .text.SAL_XSPI_SendReadCommand
+                0x08003f6e       0x62 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08003f6e                SAL_XSPI_SendReadCommand
+ .text.SAL_XSPI_CommandSendReadAddress
+                0x08003fd0       0x8a ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08003fd0                SAL_XSPI_CommandSendReadAddress
+ .text.SAL_XSPI_CheckStatusRegister
+                0x0800405a       0xa8 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x0800405a                SAL_XSPI_CheckStatusRegister
+ .text.SAL_XSPI_ConfigureWrappMode
+                0x08004102       0x42 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08004102                SAL_XSPI_ConfigureWrappMode
+ .text.SAL_XSPI_EnableMapMode
+                0x08004144       0x84 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08004144                SAL_XSPI_EnableMapMode
+ .text.XSPI_Transmit
+                0x080041c8        0x8 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x080041c8                XSPI_Transmit
+ .text.SAL_XSPI_Write
+                0x080041d0       0x56 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x080041d0                SAL_XSPI_Write
+ .text.XSPI_Receive
+                0x08004226        0x8 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x08004226                XSPI_Receive
+ .text.SAL_XSPI_Read
+                0x0800422e       0x82 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+                0x0800422e                SAL_XSPI_Read
+ .text.driver_check_FlagBUSY
+                0x080042b0       0x3e ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x080042b0                driver_check_FlagBUSY
+ *fill*         0x080042ee        0x2 
+ .text.sfdp_getfrequencevalue
+                0x080042f0       0x48 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x080042f0                sfdp_getfrequencevalue
+ .text.sfdp_get_paraminfo
+                0x08004338      0x168 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x08004338                sfdp_get_paraminfo
+ .text.SFDP_CollectData
+                0x080044a0       0xf8 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x080044a0                SFDP_CollectData
+ .text.SFDP_MemoryReset
+                0x08004598       0x90 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x08004598                SFDP_MemoryReset
+ .text.sfdp_enter_octal_mode
+                0x08004628      0x154 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x08004628                sfdp_enter_octal_mode
+ .text.sfdp_set_dummycycle
+                0x0800477c      0x110 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x0800477c                sfdp_set_dummycycle
+ .text.JEDEC_Basic_ManageQuadEnableRequirement
+                0x0800488c       0xd8 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x0800488c                JEDEC_Basic_ManageQuadEnableRequirement
+ .text.JEDEC_Basic_Manage4S4S4SEnableSequence
+                0x08004964       0x40 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x08004964                JEDEC_Basic_Manage4S4S4SEnableSequence
+ .text.SFDP_BuildGenericDriver
+                0x080049a4      0x6b4 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x080049a4                SFDP_BuildGenericDriver
+ .text.CheckSFDP_Signature
+                0x08005058       0x34 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x08005058                CheckSFDP_Signature
+ .text.SFDP_ReadHeader
+                0x0800508c       0x40 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x0800508c                SFDP_ReadHeader
+ .text.SFDP_GetHeader
+                0x080050cc       0xa0 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x080050cc                SFDP_GetHeader
+ .text.EXTMEM_DRIVER_NOR_SFDP_Init
+                0x0800516c       0xe4 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+                0x0800516c                EXTMEM_DRIVER_NOR_SFDP_Init
+ .text.EXTMEM_DRIVER_NOR_SFDP_DeInit
+                0x08005250        0xa ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+                0x08005250                EXTMEM_DRIVER_NOR_SFDP_DeInit
+ .text.EXTMEM_DRIVER_NOR_SFDP_Enable_MemoryMappedMode
+                0x0800525a       0x28 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+                0x0800525a                EXTMEM_DRIVER_NOR_SFDP_Enable_MemoryMappedMode
+ .text.EXTMEM_DRIVER_NOR_SFDP_Disable_MemoryMappedMode
+                0x08005282       0x14 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+                0x08005282                EXTMEM_DRIVER_NOR_SFDP_Disable_MemoryMappedMode
+ .text.memset   0x08005296       0x10 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memset.o)
+                0x08005296                memset
+ *fill*         0x080052a6        0x2 
+ .text.__libc_init_array
+                0x080052a8       0x48 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-init.o)
+                0x080052a8                __libc_init_array
+ .text.memcpy   0x080052f0       0x1c /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+                0x080052f0                memcpy
+ *(.glue_7)
+ .glue_7        0x0800530c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0800530c        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0800530c        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ *(.init)
+ .init          0x0800530c        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crti.o
+                0x0800530c                _init
+ .init          0x08005310        0x8 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtn.o
+ *(.fini)
+ .fini          0x08005318        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crti.o
+                0x08005318                _fini
+ .fini          0x0800531c        0x8 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtn.o
+                0x08005324                        . = ALIGN (0x4)
+                0x08005324                        _etext = .
+
+.vfp11_veneer   0x08005324        0x0
+ .vfp11_veneer  0x08005324        0x0 linker stubs
+
+.v4_bx          0x08005324        0x0
+ .v4_bx         0x08005324        0x0 linker stubs
+
+.iplt           0x08005324        0x0
+ .iplt          0x08005324        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+
+.rodata         0x08005324       0x4c
+                0x08005324                        . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08005324       0x2a ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ *(.rodata*)
+ .rodata.HAL_RCC_GetHCLKFreq.str1.1
+                0x0800534e        0x9 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ *fill*         0x08005357        0x1 
+ .rodata.chip_erase_unit.0
+                0x08005358       0x10 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ .rodata.block_erase_unit.1
+                0x08005368        0x8 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+                0x08005370                        . = ALIGN (0x4)
+
+.ARM.extab      0x08005370        0x0
+                0x08005370                        . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08005370                        . = ALIGN (0x4)
+
+.ARM            0x08005370        0x0
+                0x08005370                        . = ALIGN (0x4)
+                0x08005370                        __exidx_start = .
+ *(.ARM.exidx*)
+                0x08005370                        __exidx_end = .
+                0x08005370                        . = ALIGN (0x4)
+
+.preinit_array  0x08005370        0x0
+                0x08005370                        . = ALIGN (0x4)
+                0x08005370                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08005370                        PROVIDE (__preinit_array_end = .)
+                0x08005370                        . = ALIGN (0x4)
+
+.init_array     0x08005370        0x4
+                0x08005370                        . = ALIGN (0x4)
+                0x08005370                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08005370        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+                0x08005374                        PROVIDE (__init_array_end = .)
+                0x08005374                        . = ALIGN (0x4)
+
+.fini_array     0x08005374        0x4
+                0x08005374                        . = ALIGN (0x4)
+                0x08005374                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08005374        0x4 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+                0x08005378                        PROVIDE (__fini_array_end = .)
+                0x08005378                        . = ALIGN (0x4)
+                0x08005378                        _sidata = LOADADDR (.data)
+
+.rel.dyn        0x08005378        0x0
+ .rel.iplt      0x08005378        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+
+.data           0x24000000        0xc load address 0x08005378
+                0x24000000                        . = ALIGN (0x4)
+                0x24000000                        _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x24000000        0x4 ./Drivers/CMSIS/system_stm32h7rsxx.o
+                0x24000000                SystemCoreClock
+ .data.uwTickFreq
+                0x24000004        0x1 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x24000004                uwTickFreq
+ *fill*         0x24000005        0x3 
+ .data.uwTickPrio
+                0x24000008        0x4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x24000008                uwTickPrio
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x2400000c                        . = ALIGN (0x4)
+                0x2400000c                        _edata = .
+
+.igot.plt       0x2400000c        0x0 load address 0x08005384
+ .igot.plt      0x2400000c        0x0 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+                0x2400000c                        . = ALIGN (0x4)
+
+.bss            0x2400000c      0x3c8 load address 0x08005384
+                0x2400000c                        _sbss = .
+                0x2400000c                        __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.completed.1
+                0x2400000c        0x1 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ *fill*         0x2400000d        0x3 
+ .bss.object.0  0x24000010       0x18 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .bss.hxspi2    0x24000028       0x60 ./Application/User/main.o
+                0x24000028                hxspi2
+ .bss.hxspi1    0x24000088       0x60 ./Application/User/main.o
+                0x24000088                hxspi1
+ .bss.HAL_RCC_XSPIM_CLK_ENABLED
+                0x240000e8        0x4 ./Application/User/stm32h7rsxx_hal_msp.o
+ .bss.uwTick    0x240000ec        0x4 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+                0x240000ec                uwTick
+ .bss.JumpToApp.0
+                0x240000f0        0x4 ./Middlewares/STM32_ExtMem_Manager/stm32_boot_xip.o
+ .bss.extmem_list_config
+                0x240000f4      0x158 ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+                0x240000f4                extmem_list_config
+ .bss.JEDEC_OctalDdr
+                0x2400024c       0x20 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ .bss.JEDEC_SCCR_Map
+                0x2400026c       0x70 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ .bss.JEDEC_XSPI10
+                0x240002dc       0x18 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ .bss.JEDEC_Address4Bytes
+                0x240002f4        0x8 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ .bss.JEDEC_Basic
+                0x240002fc       0x60 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ .bss.sfdp_param_info
+                0x2400035c       0x78 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ *(COMMON)
+                0x240003d4                        . = ALIGN (0x4)
+                0x240003d4                        _ebss = .
+                0x240003d4                        __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000000      0x600
+                0x20000000                        . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end = .)
+                0x20000000                        PROVIDE (_end = .)
+                0x20000200                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000000      0x200 
+                0x20000600                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000200      0x400 
+                0x20000600                        . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2e
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x20 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crti.o
+ .ARM.attributes
+                0x00000020       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x21 ./Application/Startup/startup_stm32h7s7l8hxh.o
+ .ARM.attributes
+                0x00000073       0x32 ./Application/User/extmem_manager.o
+ .ARM.attributes
+                0x000000a5       0x32 ./Application/User/main.o
+ .ARM.attributes
+                0x000000d7       0x32 ./Application/User/stm32h7rsxx_hal_msp.o
+ .ARM.attributes
+                0x00000109       0x32 ./Application/User/stm32h7rsxx_it.o
+ .ARM.attributes
+                0x0000013b       0x32 ./Drivers/CMSIS/system_stm32h7rsxx.o
+ .ARM.attributes
+                0x0000016d       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .ARM.attributes
+                0x0000019f       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .ARM.attributes
+                0x000001d1       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .ARM.attributes
+                0x00000203       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .ARM.attributes
+                0x00000235       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .ARM.attributes
+                0x00000267       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .ARM.attributes
+                0x00000299       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .ARM.attributes
+                0x000002cb       0x32 ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .ARM.attributes
+                0x000002fd       0x32 ./Middlewares/STM32_ExtMem_Manager/stm32_boot_xip.o
+ .ARM.attributes
+                0x0000032f       0x32 ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+ .ARM.attributes
+                0x00000361       0x32 ./Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o
+ .ARM.attributes
+                0x00000393       0x32 ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+ .ARM.attributes
+                0x000003c5       0x32 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ .ARM.attributes
+                0x000003f7       0x32 ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .ARM.attributes
+                0x00000429       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x0000045b       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x0000048d       0x32 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000004bf       0x20 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtn.o
+OUTPUT(MSC_Standalone_Boot.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc.a
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libm.a
+LOAD /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/libgcc.a
+
+.comment        0x00000000       0x39
+ .comment       0x00000000       0x39 /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+                                 0x3a (size before relaxing)
+ .comment       0x00000039       0x3a ./Application/User/extmem_manager.o
+ .comment       0x00000039       0x3a ./Application/User/main.o
+ .comment       0x00000039       0x3a ./Application/User/stm32h7rsxx_hal_msp.o
+ .comment       0x00000039       0x3a ./Application/User/stm32h7rsxx_it.o
+ .comment       0x00000039       0x3a ./Drivers/CMSIS/system_stm32h7rsxx.o
+ .comment       0x00000039       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal.o
+ .comment       0x00000039       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_cortex.o
+ .comment       0x00000039       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_dma.o
+ .comment       0x00000039       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_gpio.o
+ .comment       0x00000039       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_pwr_ex.o
+ .comment       0x00000039       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc.o
+ .comment       0x00000039       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_rcc_ex.o
+ .comment       0x00000039       0x3a ./Drivers/STM32H7RSxx_HAL_Driver/stm32h7rsxx_hal_xspi.o
+ .comment       0x00000039       0x3a ./Middlewares/STM32_ExtMem_Manager/stm32_boot_xip.o
+ .comment       0x00000039       0x3a ./Middlewares/STM32_ExtMem_Manager/stm32_extmem.o
+ .comment       0x00000039       0x3a ./Middlewares/STM32_ExtMem_Manager/stm32_psram_driver.o
+ .comment       0x00000039       0x3a ./Middlewares/STM32_ExtMem_Manager/stm32_sal_xspi.o
+ .comment       0x00000039       0x3a ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_data.o
+ .comment       0x00000039       0x3a ./Middlewares/STM32_ExtMem_Manager/stm32_sfdp_driver.o
+ .comment       0x00000039       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memset.o)
+ .comment       0x00000039       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-init.o)
+ .comment       0x00000039       0x3a /home/user/.local/opt/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(libc_a-memcpy-stub.o)

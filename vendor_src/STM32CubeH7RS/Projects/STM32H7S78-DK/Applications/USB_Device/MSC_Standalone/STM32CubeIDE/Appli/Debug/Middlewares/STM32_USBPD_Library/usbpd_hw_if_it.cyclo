@@ -1,0 +1,14 @@
+../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:1336:22:LL_UCPD_ClearFlag_TypeCEventCC2	1
+../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:1347:22:LL_UCPD_ClearFlag_TypeCEventCC1	1
+../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:1358:22:LL_UCPD_ClearFlag_RxMsgEnd	1
+../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:1369:22:LL_UCPD_ClearFlag_RxOvr	1
+../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:1380:22:LL_UCPD_ClearFlag_RxHRST	1
+../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:1391:22:LL_UCPD_ClearFlag_RxOrderSet	1
+../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:1402:22:LL_UCPD_ClearFlag_TxUND	1
+../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:1413:22:LL_UCPD_ClearFlag_TxHRSTSENT	1
+../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:1424:22:LL_UCPD_ClearFlag_TxHRSTDISC	1
+../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:1435:22:LL_UCPD_ClearFlag_TxMSGABT	1
+../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:1446:22:LL_UCPD_ClearFlag_TxMSGSENT	1
+../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:1457:22:LL_UCPD_ClearFlag_TxMSGDISC	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_USBPD_Library/Devices/STM32H7RSXX/src/usbpd_hw_if_it.c:39:6:USBPD_PORT0_IRQHandler	1
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_USBPD_Library/Devices/STM32H7RSXX/src/usbpd_hw_if_it.c:44:6:PORTx_IRQHandler	21

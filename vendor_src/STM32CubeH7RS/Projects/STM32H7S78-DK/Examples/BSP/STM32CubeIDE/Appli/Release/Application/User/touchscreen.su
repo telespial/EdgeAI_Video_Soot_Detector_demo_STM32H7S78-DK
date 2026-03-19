@@ -1,0 +1,7 @@
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/touchscreen.c:411:13:Touchscreen_SetHint_Demo	32	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/touchscreen.c:188:6:Touchscreen_demo2	216	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/touchscreen.c:228:6:Touchscreen_demo3	48	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/touchscreen.c:267:6:BSP_TS_Callback	56	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/touchscreen.c:467:6:Touchscreen_DrawBackground_Circles	8	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/touchscreen.c:80:6:Touchscreen_demo1	24	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/touchscreen.c:585:9:TouchScreen_GetTouchPosition	8	static

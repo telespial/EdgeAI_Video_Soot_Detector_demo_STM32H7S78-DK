@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Soot Detector Feature Vector v1",
+  "type": "object",
+  "required": [
+    "timestamp",
+    "frame_id",
+    "laplacian_var",
+    "hf_energy",
+    "dark_speck_density",
+    "local_contrast",
+    "haze_veil_index",
+    "color_gray_brown_shift"
+  ],
+  "properties": {
+    "timestamp": { "type": "string" },
+    "frame_id": { "type": "integer", "minimum": 0 },
+    "laplacian_var": { "type": "number" },
+    "hf_energy": { "type": "number" },
+    "dark_speck_density": { "type": "number" },
+    "local_contrast": { "type": "number" },
+    "haze_veil_index": { "type": "number" },
+    "color_gray_brown_shift": { "type": "number" },
+    "illumination_level": { "type": "number" },
+    "motion_blur_flag": { "type": "integer", "minimum": 0, "maximum": 1 }
+  },
+  "additionalProperties": false
+}

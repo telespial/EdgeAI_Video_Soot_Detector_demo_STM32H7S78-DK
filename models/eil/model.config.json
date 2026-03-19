@@ -1,0 +1,156 @@
+{
+  "name": "soot_detector",
+  "type": "Anomaly+AdaptiveReasoning",
+  "target": "EdgeML",
+  "core": "Cortex-M33",
+  "vendor": "Generic",
+  "version": "0.1.0",
+  "quantizationMode": "none",
+  "alertThresholds": {
+    "warn": 0.08,
+    "fail": 0.2
+  },
+  "baseline": {
+    "mode": "live_window",
+    "liveWindow": {
+      "durationSec": 120,
+      "minSamples": 200,
+      "warmupIgnoreAlerts": true
+    }
+  },
+  "reasonCodes": [
+    {
+      "key": "sharpness_loss",
+      "code": 3001,
+      "message": "Sharpness degraded",
+      "forceFail": false
+    },
+    {
+      "key": "haze_rise",
+      "code": 3002,
+      "message": "Haze veil increased",
+      "forceFail": false
+    },
+    {
+      "key": "dark_speck_spike",
+      "code": 3003,
+      "message": "Dark speck density elevated",
+      "forceFail": false
+    },
+    {
+      "key": "contrast_collapse",
+      "code": 3004,
+      "message": "Local contrast reduced",
+      "forceFail": true
+    }
+  ],
+  "inputs": [
+    {
+      "name": "laplacian_var",
+      "label": "Laplacian Variance",
+      "valueType": "numeric",
+      "channel": "laplacian_var",
+      "unit": "raw",
+      "scale": 1,
+      "offset": 0,
+      "weight": 1,
+      "normalizeMode": "none",
+      "sampleRateHz": 10,
+      "windowSize": 16
+    },
+    {
+      "name": "hf_energy",
+      "label": "High Frequency Energy",
+      "valueType": "numeric",
+      "channel": "hf_energy",
+      "unit": "raw",
+      "scale": 1,
+      "offset": 0,
+      "weight": 1,
+      "normalizeMode": "none",
+      "sampleRateHz": 10,
+      "windowSize": 16
+    },
+    {
+      "name": "dark_speck_density",
+      "label": "Dark Speck Density",
+      "valueType": "numeric",
+      "channel": "dark_speck_density",
+      "unit": "pct",
+      "scale": 1,
+      "offset": 0,
+      "weight": 1,
+      "normalizeMode": "none",
+      "sampleRateHz": 10,
+      "windowSize": 16
+    },
+    {
+      "name": "local_contrast",
+      "label": "Local Contrast",
+      "valueType": "numeric",
+      "channel": "local_contrast",
+      "unit": "raw",
+      "scale": 1,
+      "offset": 0,
+      "weight": 1,
+      "normalizeMode": "none",
+      "sampleRateHz": 10,
+      "windowSize": 16
+    },
+    {
+      "name": "haze_veil_index",
+      "label": "Haze Veil Index",
+      "valueType": "numeric",
+      "channel": "haze_veil_index",
+      "unit": "raw",
+      "scale": 1,
+      "offset": 0,
+      "weight": 1,
+      "normalizeMode": "none",
+      "sampleRateHz": 10,
+      "windowSize": 16
+    },
+    {
+      "name": "color_gray_brown_shift",
+      "label": "Color Gray/Brown Shift",
+      "valueType": "numeric",
+      "channel": "color_gray_brown_shift",
+      "unit": "raw",
+      "scale": 1,
+      "offset": 0,
+      "weight": 1,
+      "normalizeMode": "none",
+      "sampleRateHz": 10,
+      "windowSize": 16
+    }
+  ],
+  "outputs": [
+    {
+      "name": "anomaly_score",
+      "dataType": "float",
+      "action": "telemetry",
+      "target": "telemetry"
+    },
+    {
+      "name": "alert_state",
+      "dataType": "enum",
+      "action": "thresholdAlert",
+      "target": "alert_state"
+    },
+    {
+      "name": "reason_code",
+      "dataType": "enum",
+      "action": "telemetry",
+      "target": "reason_code"
+    }
+  ],
+  "modelProfile": "vision_contamination",
+  "inputSource": "live_camera",
+  "hardwareBudget": {
+    "preset": "MPU-Linux",
+    "totalFlashKB": 1048576,
+    "totalRamKB": 524288,
+    "totalCpuMHz": 1200,
+    "modelBudgetPct": 20
+  }
+}

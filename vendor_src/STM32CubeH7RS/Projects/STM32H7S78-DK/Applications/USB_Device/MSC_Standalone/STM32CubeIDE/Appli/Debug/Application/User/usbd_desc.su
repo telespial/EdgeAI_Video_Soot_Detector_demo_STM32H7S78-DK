@@ -1,0 +1,9 @@
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbd_desc.c:250:11:USBD_MSC_DeviceDescriptor	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbd_desc.c:263:11:USBD_MSC_LangIDStrDescriptor	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbd_desc.c:276:11:USBD_MSC_ProductStrDescriptor	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbd_desc.c:288:11:USBD_MSC_ManufacturerStrDescriptor	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbd_desc.c:301:11:USBD_MSC_SerialStrDescriptor	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbd_desc.c:322:11:USBD_MSC_ConfigStrDescriptor	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbd_desc.c:334:11:USBD_MSC_InterfaceStrDescriptor	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbd_desc.c:360:13:Get_SerialNum	24	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbd_desc.c:386:13:IntToUnicode	32	static

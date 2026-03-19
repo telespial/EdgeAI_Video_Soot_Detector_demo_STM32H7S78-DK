@@ -1,0 +1,46 @@
+  subject: Ticket : 178785 [Cryptolib][NUCLEO-H753ZI] Modified target config .xml for H753ZI
+  subject: [TARGET_STM32C092RC_NUCLEO] Add STM32C092RC_NUCLEO target
+  subject: TinyPanther {STM32MP21xx} : Configuration file has been updated / modified  for Tiny Panther
+  subject: Panther {STM32MP25xx}: Device file has been modified for MP2
+  subject: refactor(PG): add project generator for JPEG and GFXTIM examples: - JPEG_DecodingFromFLASH_DMA - JPEG_EncodingFromFLASH_DMA
+  subject: feat(go.sh): Fix oldpwd after cd
+  subject: fix(u3): add ICACHE in target_config.xml
+  subject: Add submodules paths for H7RS
+  subject: feat(GenericTest): Raise an Exception when LED OK not found in the function 'find_led_ok_pin'
+  subject: chore (github_config): Add URLs of F4 BSP components
+  subject: OEMiSB: update clock for u0 add LL version to reduce boot foot print
+  subject: feat(CMSIS): Add support of V9 devices
+  subject: fix(pe): Solve missing answer to GET_SNK_CAP_EXT when acting as SRC
+  subject: fix(pe): increase PD2 tSenderResponse from 24 to 25ms (Ellisys failed TEST.PD.PROT.SRC.2)
+  subject: Add time.sleep(0.5) fot the N6 board
+  subject: Update STLink command to support external loader for N6 board
+  subject: add led status
+  subject: [TARGET_STM32H7S3L8_NUCLEO] Enable cache + PLL2 & fix power scale
+  subject: Add STM32U0xxImportantLink to importantLink.html file for STM32U0 Mamba
+  subject: [aci] fix report generator script for QS comp
+  subject: Package blocks for H5
+  subject: feat: Add check of "\" in Ewarm settings
+  subject: Switch setup U5 on TUN10 & switch steup L5 on TUN08
+  subject: ValidateArchive.py update tabs and trims delete Change-Id: I3d492fad3f2e2b4c496cd1664aacfe695add156e
+  subject: Update all tests for 'MEMS1_test'
+  subject: [USB Apps Auto-validation]: PC bench info correction
+  subject: add new options in the script validate_archive
+  subject: adding reference files sysmem.c and syscalls.c
+  subject: script to update sysmem and syscalls files
+  subject: test topic for gerrit review
+  subject: change timeout
+  subject: Update release log generatot to generate VTR
+  subject: Update copyright year
+  subject: Fix: License_checker: Add mode (release and ACI), remove ambiguities in titles, add corrections
+  subject: fix(github): Update github.py to remove shell files
+  subject: [U083_Nucleo target] add ioc file of HSI clock config
+  subject: [PG][TEMPLATE][TARGET_STM32H563ZI_NUCLEO] : Add a new bsp configuration for pg when TrustZone is enabled
+  subject: blacklist-prod-under-dev : add panther
+  subject: Ticket 140823 - [TPB] Review comments in MTP excel file overridden after regeneration for updates
+  subject: Add maintenance specific scripts to tools.
+  subject: Feat(NonRegScript): Add IAR template to build Backup Registers Cleaner binary
+  subject: fix(Automation): Fix missing Rx message length argument in the command 'I2C_WRITE_READ'
+  subject: feat(TestsPlanBuilder): Change Python Module installation
+  subject: ci(Script-for-jenkins): fix script to generate csv file with counted results
+  subject: [update] limit the print of errors to 2 lines
+  subject: [G0][USBPD][disco] Add mutex lock/ unlock mechanism with freeRTOS  to solve conflits between VBUS measurements and LCD both using I2C

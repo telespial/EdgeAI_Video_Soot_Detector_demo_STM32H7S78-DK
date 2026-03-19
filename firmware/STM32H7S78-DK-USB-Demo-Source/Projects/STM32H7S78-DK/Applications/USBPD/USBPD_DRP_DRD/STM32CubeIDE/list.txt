@@ -1,0 +1,788 @@
+change I7e292fdd1fa318a3b254596b3eb64ffbd6209be3
+  project: stm32cube/pg/tool
+  branch: master
+  id: I7e292fdd1fa318a3b254596b3eb64ffbd6209be3
+  number: 396800
+  subject: Ticket : 178785 [Cryptolib][NUCLEO-H753ZI] Modified target config .xml for H753ZI
+  owner:
+    name: Arjun T A
+    email: arjun.ta-ext@st.com
+    username: taarjun
+  url: https://gerrit.st.com/c/stm32cube/pg/tool/+/396800
+  hashtags:
+  createdOn: 2024-08-05 15:38:49 CEST
+  lastUpdated: 2024-08-05 15:47:09 CEST
+  open: true
+  status: NEW
+
+change I79b8792b92038f7a4b6d9226daba92eae0099227
+  project: stm32cube/pg/tool
+  branch: master
+  id: I79b8792b92038f7a4b6d9226daba92eae0099227
+  number: 395582
+  subject: [TARGET_STM32C092RC_NUCLEO] Add STM32C092RC_NUCLEO target
+  owner:
+    name: Aya SELMI
+    email: aya.selmi1@st.com
+    username: selmiaya
+  url: https://gerrit.st.com/c/stm32cube/pg/tool/+/395582
+  hashtags:
+  createdOn: 2024-07-29 14:33:45 CEST
+  lastUpdated: 2024-07-29 20:27:41 CEST
+  open: true
+  status: NEW
+
+change I746eeb1f86397632bb8df3c0a1cdc8c7f6293d3c
+  project: stm32cube/internal/tools
+  branch: master
+  id: I746eeb1f86397632bb8df3c0a1cdc8c7f6293d3c
+  number: 344311
+  subject: TinyPanther {STM32MP21xx} : Configuration file has been updated / modified  for Tiny Panther
+  owner:
+    name: Vishal CHOUHAN
+    email: vishal.chouhan@st.com
+    username: chouhanv
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/344311
+  hashtags:
+  createdOn: 2023-12-06 10:55:49 CET
+  lastUpdated: 2024-07-25 19:18:03 CEST
+  open: true
+  status: NEW
+
+change If70cda4cc79d2639313998f1e7f68d303413b961
+  project: stm32cube/internal/tools
+  branch: master
+  id: If70cda4cc79d2639313998f1e7f68d303413b961
+  number: 377052
+  subject: Panther {STM32MP25xx}: Device file has been modified for MP2
+  owner:
+    name: Vishal CHOUHAN
+    email: vishal.chouhan@st.com
+    username: chouhanv
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/377052
+  hashtags:
+  createdOn: 2024-04-29 06:10:57 CEST
+  lastUpdated: 2024-07-25 19:17:47 CEST
+  open: true
+  status: NEW
+
+change I7d1b3021d6e8cba3cd5cd365662fe3beb8c55bee
+  project: stm32cube/pg/tool
+  branch: master
+  id: I7d1b3021d6e8cba3cd5cd365662fe3beb8c55bee
+  number: 300834
+  subject: refactor(PG): add project generator for JPEG and GFXTIM examples: - JPEG_DecodingFromFLASH_DMA - JPEG_EncodingFromFLASH_DMA
+  owner:
+    name: Zied KRICHA
+    email: zied.kricha@st.com
+    username: krichazi
+  url: https://gerrit.st.com/c/stm32cube/pg/tool/+/300834
+  hashtags:
+  createdOn: 2023-04-14 15:18:33 CEST
+  lastUpdated: 2024-07-22 10:36:44 CEST
+  open: true
+  status: NEW
+
+change I0bac0bdd1c90c5933a19c35a163932ba9ce97b36
+  project: stm32cube/internal/stm32script
+  branch: master
+  id: I0bac0bdd1c90c5933a19c35a163932ba9ce97b36
+  number: 392565
+  subject: feat(go.sh): Fix oldpwd after cd
+  owner:
+    name: Michael BARBARIN
+    email: michael.barbarin-ext@st.com
+    username: barbarim
+  url: https://gerrit.st.com/c/stm32cube/internal/stm32script/+/392565
+  hashtags:
+  createdOn: 2024-07-10 13:59:47 CEST
+  lastUpdated: 2024-07-10 16:44:26 CEST
+  open: true
+  status: NEW
+
+change I66535e396c7d2a1b1b0ca715ec3d78a73468900c
+  project: stm32cube/pg/tool
+  branch: master
+  id: I66535e396c7d2a1b1b0ca715ec3d78a73468900c
+  number: 392038
+  subject: fix(u3): add ICACHE in target_config.xml
+  owner:
+    name: Doriane LAGUERRE
+    email: doriane.laguerre@st.com
+    username: laguerrd
+  url: https://gerrit.st.com/c/stm32cube/pg/tool/+/392038
+  hashtags:
+  createdOn: 2024-07-08 15:53:07 CEST
+  lastUpdated: 2024-07-09 20:11:15 CEST
+  open: true
+  status: NEW
+
+change I217818feefd750f3aa15b8a863e63e579a08139e
+  project: stm32cube/internal/stm32script
+  branch: master
+  id: I217818feefd750f3aa15b8a863e63e579a08139e
+  number: 391124
+  subject: Add submodules paths for H7RS
+  owner:
+    name: Rania JMAI
+    email: rania.jmai@st.com
+    username: jmairani
+  url: https://gerrit.st.com/c/stm32cube/internal/stm32script/+/391124
+  hashtags:
+  createdOn: 2024-07-03 13:28:20 CEST
+  lastUpdated: 2024-07-08 19:39:04 CEST
+  open: true
+  status: NEW
+
+change I2bd2183a3d9a314da3f417fd88d0e5d0d9b63528
+  project: stm32cube/internal/tools
+  branch: master
+  id: I2bd2183a3d9a314da3f417fd88d0e5d0d9b63528
+  number: 325289
+  subject: feat(GenericTest): Raise an Exception when LED OK not found in the function 'find_led_ok_pin'
+  owner:
+    name: Philippe LE NORMAND
+    email: philippe.lenormand@st.com
+    username: normandp
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/325289
+  hashtags:
+  createdOn: 2023-08-31 22:35:28 CEST
+  lastUpdated: 2024-07-04 09:53:22 CEST
+  open: true
+  status: NEW
+
+change Id508379e954990975d1f710803940740c9770919
+  project: stm32cube/internal/stm32script
+  branch: master
+  id: Id508379e954990975d1f710803940740c9770919
+  number: 388801
+  subject: chore (github_config): Add URLs of F4 BSP components
+  owner:
+    name: Rania JMAI
+    email: rania.jmai@st.com
+    username: jmairani
+  url: https://gerrit.st.com/c/stm32cube/internal/stm32script/+/388801
+  hashtags:
+  createdOn: 2024-06-20 14:41:22 CEST
+  lastUpdated: 2024-06-21 15:33:34 CEST
+  open: true
+  status: NEW
+
+change Ia26c9104b1e0b7e589435d5931875982d6da8c03
+  project: stm32cube/pg/tool
+  branch: master
+  id: Ia26c9104b1e0b7e589435d5931875982d6da8c03
+  number: 336271
+  subject: OEMiSB: update clock for u0 add LL version to reduce boot foot print
+  owner:
+    name: Adel SELMI
+    email: adel.selmi-ext@st.com
+    username: selmiade
+  url: https://gerrit.st.com/c/stm32cube/pg/tool/+/336271
+  hashtags:
+  createdOn: 2023-10-25 18:32:47 CEST
+  lastUpdated: 2024-06-13 10:39:26 CEST
+  open: true
+  status: NEW
+
+change Ifb5df1a07b35dbdd702e7747baa170823a661648
+  project: stm32cube/internal/tools
+  branch: master
+  id: Ifb5df1a07b35dbdd702e7747baa170823a661648
+  number: 386429
+  subject: feat(CMSIS): Add support of V9 devices
+  owner:
+    name: Mohamed Mehdi KHELIFI
+    email: mohamed-mehdi.khelifi-ext@st.com
+    username: khelifim
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/386429
+  hashtags:
+  createdOn: 2024-06-10 15:13:15 CEST
+  lastUpdated: 2024-06-12 19:49:10 CEST
+  open: true
+  status: NEW
+
+change Ib4f2eb6160650f5507b707a1d1de5e584c3002ee
+  project: stm32-usbpd-fw/mw/usbpd_core
+  branch: master
+  id: Ib4f2eb6160650f5507b707a1d1de5e584c3002ee
+  number: 384102
+  subject: fix(pe): Solve missing answer to GET_SNK_CAP_EXT when acting as SRC
+  owner:
+    name: Guenael CADIER
+    email: guenael.cadier@st.com
+    username: gucadier
+  url: https://gerrit.st.com/c/stm32-usbpd-fw/mw/usbpd_core/+/384102
+  hashtags:
+  createdOn: 2024-05-30 16:10:04 CEST
+  lastUpdated: 2024-05-30 16:12:51 CEST
+  open: true
+  status: NEW
+
+change I897a5e55b2512ea25859087f89894d0c15805822
+  project: stm32-usbpd-fw/mw/usbpd_core
+  branch: master
+  id: I897a5e55b2512ea25859087f89894d0c15805822
+  number: 382797
+  subject: fix(pe): increase PD2 tSenderResponse from 24 to 25ms (Ellisys failed TEST.PD.PROT.SRC.2)
+  owner:
+    name: Guenael CADIER
+    email: guenael.cadier@st.com
+    username: gucadier
+  url: https://gerrit.st.com/c/stm32-usbpd-fw/mw/usbpd_core/+/382797
+  hashtags:
+  createdOn: 2024-05-27 16:21:37 CEST
+  lastUpdated: 2024-05-27 16:23:15 CEST
+  open: true
+  status: NEW
+
+change I4cea79f7b3524fc236d1d09f7c24bd675d05b676
+  project: stm32cube/internal/tools
+  branch: master
+  id: I4cea79f7b3524fc236d1d09f7c24bd675d05b676
+  number: 382293
+  subject: Add time.sleep(0.5) fot the N6 board
+  owner:
+    name: Oussama JEBBAOUI
+    email: oussama.jebbaoui@st.com
+    username: jebbaouo
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/382293
+  hashtags:
+  createdOn: 2024-05-24 10:17:03 CEST
+  lastUpdated: 2024-05-24 13:45:17 CEST
+  open: true
+  status: NEW
+
+change I5f2b00db5cfb72396bc129eb8ec8c77738a021e6
+  project: stm32cube/internal/tools
+  branch: master
+  id: I5f2b00db5cfb72396bc129eb8ec8c77738a021e6
+  number: 382299
+  subject: Update STLink command to support external loader for N6 board
+  owner:
+    name: Oussama JEBBAOUI
+    email: oussama.jebbaoui@st.com
+    username: jebbaouo
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/382299
+  hashtags:
+  createdOn: 2024-05-24 10:31:44 CEST
+  lastUpdated: 2024-05-24 13:45:09 CEST
+  open: true
+  status: NEW
+
+change I27e89ba4c736b45e8e645aa96093da4fe415d0fb
+  project: stm32cube/pg/proj_generic
+  branch: master
+  id: I27e89ba4c736b45e8e645aa96093da4fe415d0fb
+  number: 376538
+  subject: add led status
+  owner:
+    name: Chaima SEBAI
+    email: chaima.sebai@st.com
+    username: sebaicha
+  url: https://gerrit.st.com/c/stm32cube/pg/proj_generic/+/376538
+  hashtags:
+  createdOn: 2024-04-25 13:27:37 CEST
+  lastUpdated: 2024-04-25 13:28:41 CEST
+  open: true
+  status: NEW
+
+change I49a047abacdf969352f2e61d65c8c062c13a63b0
+  project: stm32cube/pg/tool
+  branch: master
+  id: I49a047abacdf969352f2e61d65c8c062c13a63b0
+  number: 376430
+  subject: [TARGET_STM32H7S3L8_NUCLEO] Enable cache + PLL2 & fix power scale
+  owner:
+    name: Olivier ARNAUD
+    email: o.arnaud@st.com
+    username: frq07451
+  url: https://gerrit.st.com/c/stm32cube/pg/tool/+/376430
+  hashtags:
+  createdOn: 2024-04-25 08:03:46 CEST
+  lastUpdated: 2024-04-25 08:03:46 CEST
+  open: true
+  status: NEW
+
+change Ib83820a6e9d4ebd81197d6721b425c5c295474ec
+  project: stm32cube/internal/tools
+  branch: master
+  id: Ib83820a6e9d4ebd81197d6721b425c5c295474ec
+  number: 300963
+  subject: Add STM32U0xxImportantLink to importantLink.html file for STM32U0 Mamba
+  owner:
+    name: Nizar OUNI
+    email: nizar.ouni@st.com
+    username: ounin
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/300963
+  hashtags:
+  createdOn: 2023-04-16 13:44:56 CEST
+  lastUpdated: 2024-04-17 09:29:16 CEST
+  open: true
+  status: NEW
+
+change I58820318dda9c7cdc9c75a1ce2168ea78bf4e5c4
+  project: stm32cube/internal/tools
+  branch: master
+  id: I58820318dda9c7cdc9c75a1ce2168ea78bf4e5c4
+  number: 370486
+  subject: [aci] fix report generator script for QS comp
+  owner:
+    name: Ali BEN BRAHIM
+    email: ali.ben-brahim@st.com
+    username: benbraha
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/370486
+  hashtags:
+  createdOn: 2024-04-01 13:44:02 CEST
+  lastUpdated: 2024-04-17 09:27:50 CEST
+  open: true
+  status: NEW
+
+change I3ef85d76cb938fab402709e57fd25205dd4f0e54
+  project: stm32cube/internal/tools
+  branch: master
+  id: I3ef85d76cb938fab402709e57fd25205dd4f0e54
+  number: 349838
+  subject: Package blocks for H5
+  owner:
+    name: Makrem BOUDINAR
+    email: makrem.boudinar@st.com
+    username: boudinar
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/349838
+  hashtags:
+  createdOn: 2024-01-08 16:26:47 CET
+  lastUpdated: 2024-04-17 09:26:55 CEST
+  open: true
+  status: NEW
+
+change Ib226fbdd4d2e94b90e74a862b8c2e49a13fa23cc
+  project: stm32cube/internal/tools
+  branch: master
+  id: Ib226fbdd4d2e94b90e74a862b8c2e49a13fa23cc
+  number: 328599
+  subject: feat: Add check of "\" in Ewarm settings
+  owner:
+    name: Wassim FELFEL
+    email: wassim.felfel-ext@st.com
+    username: felfelwa
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/328599
+  hashtags:
+  createdOn: 2023-09-20 12:41:20 CEST
+  lastUpdated: 2024-04-17 09:25:49 CEST
+  open: true
+  status: NEW
+
+change Ib1ab469e6a7a2c26f733bbb3ddbe4c0947c4f0f3
+  project: stm32cube/internal/tools
+  branch: master
+  id: Ib1ab469e6a7a2c26f733bbb3ddbe4c0947c4f0f3
+  number: 306039
+  subject: Switch setup U5 on TUN10 & switch steup L5 on TUN08
+  owner:
+    name: Chaima SEBAI
+    email: chaima.sebai@st.com
+    username: sebaicha
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/306039
+  hashtags:
+  createdOn: 2023-05-12 17:22:20 CEST
+  lastUpdated: 2024-04-17 09:24:52 CEST
+  open: true
+  status: NEW
+
+change I1a8f9b1bdcbee25dd358fff9cf23dfe6ffaa6133
+  project: stm32cube/internal/tools
+  branch: master
+  id: I1a8f9b1bdcbee25dd358fff9cf23dfe6ffaa6133
+  number: 291952
+  subject: ValidateArchive.py update tabs and trims delete Change-Id: I3d492fad3f2e2b4c496cd1664aacfe695add156e
+  owner:
+    name: Wassim FELFEL
+    email: wassim.felfel-ext@st.com
+    username: felfelwa
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/291952
+  hashtags:
+  createdOn: 2023-02-21 16:37:32 CET
+  lastUpdated: 2024-04-17 09:23:11 CEST
+  open: true
+  status: NEW
+
+change I7154fd0bde7412ed05b77a13c81a1b68a7aeb079
+  project: stm32cube/internal/tools
+  branch: master
+  id: I7154fd0bde7412ed05b77a13c81a1b68a7aeb079
+  number: 280944
+  subject: Update all tests for 'MEMS1_test'
+  owner:
+    name: Martin BOKSA
+    email: martin.boksa@st.com
+    username: boksamar
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/280944
+  hashtags:
+  createdOn: 2022-12-13 19:32:44 CET
+  lastUpdated: 2024-04-17 09:22:49 CEST
+  open: true
+  status: NEW
+
+change I615026685ec29b3c82a7a24e544ed24e6b817212
+  project: stm32cube/internal/tools
+  branch: master
+  id: I615026685ec29b3c82a7a24e544ed24e6b817212
+  number: 280545
+  subject: [USB Apps Auto-validation]: PC bench info correction
+  owner:
+    name: Hana SLIMI
+    email: hana.slimi@st.com
+    username: slimih
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/280545
+  hashtags:
+  createdOn: 2022-12-12 16:27:33 CET
+  lastUpdated: 2024-04-17 09:22:38 CEST
+  open: true
+  status: NEW
+
+change Ic89d7c1a94e73f5b38cd11e7e99270003be1329f
+  project: stm32cube/internal/tools
+  branch: master
+  id: Ic89d7c1a94e73f5b38cd11e7e99270003be1329f
+  number: 266605
+  subject: add new options in the script validate_archive
+  owner:
+    name: Eya LACHHAB
+    email: eya.lachhab01@st.com
+    username: lachhabe
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/266605
+  hashtags:
+  createdOn: 2022-09-16 13:14:16 CEST
+  lastUpdated: 2024-04-17 09:22:23 CEST
+  open: true
+  status: NEW
+
+change I2a4953c3116abead8fcfd984600a9a4703a6fb48
+  project: stm32cube/internal/tools
+  branch: master
+  id: I2a4953c3116abead8fcfd984600a9a4703a6fb48
+  number: 263567
+  subject: adding reference files sysmem.c and syscalls.c
+  owner:
+    name: Mohamed Ali HACHICHA
+    email: mohamed-ali.hachicha@st.com
+    username: hachich1
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/263567
+  hashtags:
+  createdOn: 2022-08-23 11:28:10 CEST
+  lastUpdated: 2024-04-17 09:22:10 CEST
+  open: true
+  status: NEW
+
+change I44f843136cac6c7b680849e76f93275dae61d591
+  project: stm32cube/internal/tools
+  branch: master
+  id: I44f843136cac6c7b680849e76f93275dae61d591
+  number: 263566
+  subject: script to update sysmem and syscalls files
+  owner:
+    name: Mohamed Ali HACHICHA
+    email: mohamed-ali.hachicha@st.com
+    username: hachich1
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/263566
+  hashtags:
+  createdOn: 2022-08-23 11:24:45 CEST
+  lastUpdated: 2024-04-17 09:22:00 CEST
+  open: true
+  status: NEW
+
+change I2ef42162b5b64be32a68176d9c581f5d8eb6415f
+  project: stm32cube/internal/tools
+  branch: master
+  topic: test
+  id: I2ef42162b5b64be32a68176d9c581f5d8eb6415f
+  number: 328095
+  subject: test topic for gerrit review
+  owner:
+    name: Rabie ABDAOUI
+    email: rabie.abdaoui@st.com
+    username: abdaouir
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/328095
+  hashtags:
+  createdOn: 2023-09-18 11:52:41 CEST
+  lastUpdated: 2024-04-17 09:21:24 CEST
+  open: true
+  status: NEW
+
+change If61acfd5f2d3d7401b09f3ebc9bdad3d5802df60
+  project: stm32cube/internal/tools
+  branch: master
+  id: If61acfd5f2d3d7401b09f3ebc9bdad3d5802df60
+  number: 328092
+  subject: change timeout
+  owner:
+    name: Rabie ABDAOUI
+    email: rabie.abdaoui@st.com
+    username: abdaouir
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/328092
+  hashtags:
+  createdOn: 2023-09-18 11:50:12 CEST
+  lastUpdated: 2024-04-17 09:21:08 CEST
+  open: true
+  status: NEW
+
+change Iab8c4877daa3caf3589a50cc1bb5c75c84e30d25
+  project: stm32cube/internal/tools
+  branch: master
+  id: Iab8c4877daa3caf3589a50cc1bb5c75c84e30d25
+  number: 352031
+  subject: Update release log generatot to generate VTR
+  owner:
+    name: Omar SAKET
+    email: omar.saket@st.com
+    username: saketoma
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/352031
+  hashtags:
+  createdOn: 2024-01-17 13:52:31 CET
+  lastUpdated: 2024-04-10 16:20:41 CEST
+  open: true
+  status: NEW
+
+change I34376b9ee2f82bb06a5e793a291212336cefe367
+  project: stm32cube/pg/tool
+  branch: master
+  id: I34376b9ee2f82bb06a5e793a291212336cefe367
+  number: 281447
+  subject: Update copyright year
+  owner:
+    name: Makrem BOUDINAR
+    email: makrem.boudinar@st.com
+    username: boudinar
+  url: https://gerrit.st.com/c/stm32cube/pg/tool/+/281447
+  hashtags:
+  createdOn: 2022-12-15 16:30:46 CET
+  lastUpdated: 2024-04-10 16:10:02 CEST
+  open: true
+  status: NEW
+
+change If0bff650b0d46ccafeef5e60cbfa8874b16db2c2
+  project: stm32cube/internal/tools
+  branch: master
+  id: If0bff650b0d46ccafeef5e60cbfa8874b16db2c2
+  number: 351661
+  subject: Fix: License_checker: Add mode (release and ACI), remove ambiguities in titles, add corrections
+  owner:
+    name: Mariem KAMMOUN
+    email: mariem.kammoun01-ext@st.com
+    username: kammoun1
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/351661
+  hashtags:
+  createdOn: 2024-01-16 12:02:51 CET
+  lastUpdated: 2024-04-10 15:18:32 CEST
+  open: true
+  status: NEW
+
+change I62dfdcd2d7efb5dd1a11868057244447c06223e6
+  project: stm32cube/internal/stm32script
+  branch: master
+  id: I62dfdcd2d7efb5dd1a11868057244447c06223e6
+  number: 348756
+  subject: fix(github): Update github.py to remove shell files
+  owner:
+    name: Rania JMAI
+    email: rania.jmai@st.com
+    username: jmairani
+  url: https://gerrit.st.com/c/stm32cube/internal/stm32script/+/348756
+  hashtags:
+  createdOn: 2023-12-26 16:36:01 CET
+  lastUpdated: 2024-04-10 15:18:07 CEST
+  open: true
+  status: NEW
+
+change I9f084e5b3e9c6c052cc62a67ad5c8fdf7fe65e2b
+  project: stm32cube/pg/tool
+  branch: master
+  id: I9f084e5b3e9c6c052cc62a67ad5c8fdf7fe65e2b
+  number: 341994
+  subject: [U083_Nucleo target] add ioc file of HSI clock config
+  owner:
+    name: Manel AOUADI
+    email: manel.aouadi@st.com
+    username: aouadim
+  url: https://gerrit.st.com/c/stm32cube/pg/tool/+/341994
+  hashtags:
+  createdOn: 2023-11-24 16:22:42 CET
+  lastUpdated: 2024-04-10 15:17:39 CEST
+  open: true
+  status: NEW
+
+change Icda14de2ce13c0f9180c7bbba88d255713d41abb
+  project: stm32cube/pg/tool
+  branch: master
+  id: Icda14de2ce13c0f9180c7bbba88d255713d41abb
+  number: 258391
+  subject: [PG][TEMPLATE][TARGET_STM32H563ZI_NUCLEO] : Add a new bsp configuration for pg when TrustZone is enabled
+  owner:
+    name: Rami MANI-SCND-01
+    email: rami.mani-ext@st.com
+    username: manir-adm
+  url: https://gerrit.st.com/c/stm32cube/pg/tool/+/258391
+  hashtags:
+  createdOn: 2022-06-29 15:57:48 CEST
+  lastUpdated: 2024-04-10 15:14:48 CEST
+  open: true
+  status: NEW
+
+change I26629bda924887e18ca6191e89c8a8652205e404
+  project: stm32cube/internal/tools
+  branch: master
+  id: I26629bda924887e18ca6191e89c8a8652205e404
+  number: 286139
+  subject: blacklist-prod-under-dev : add panther
+  owner:
+    name: Francois CHOLEAU
+    email: francois.choleau@st.com
+    username: frq07552
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/286139
+  hashtags:
+  createdOn: 2023-01-20 16:36:57 CET
+  lastUpdated: 2024-01-10 13:28:32 CET
+  open: true
+  status: NEW
+
+change I849dc7610a20b17474e682966895f2da412dffe6
+  project: stm32cube/internal/tools
+  branch: iso/tpb
+  id: I849dc7610a20b17474e682966895f2da412dffe6
+  number: 281735
+  subject: Ticket 140823 - [TPB] Review comments in MTP excel file overridden after regeneration for updates
+  owner:
+    name: Philippe LE NORMAND
+    email: philippe.lenormand@st.com
+    username: normandp
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/281735
+  hashtags:
+  createdOn: 2022-12-16 18:11:48 CET
+  lastUpdated: 2024-01-10 13:28:25 CET
+  open: true
+  status: NEW
+
+change I7ca4f8a609747ca980e9101966e0099724be4844
+  project: stm32cube/internal/tools
+  branch: master
+  id: I7ca4f8a609747ca980e9101966e0099724be4844
+  number: 214859
+  subject: Add maintenance specific scripts to tools.
+  owner:
+    name: Samir BEN ABID
+    email: samir.benabid@st.com
+    username: abids
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/214859
+  hashtags:
+  createdOn: 2021-07-21 14:57:46 CEST
+  lastUpdated: 2024-01-10 13:28:12 CET
+  open: true
+  status: NEW
+
+change Id36433fefc7158e9684b56992d2789ff1223cf1d
+  project: stm32cube/internal/tools
+  branch: master
+  id: Id36433fefc7158e9684b56992d2789ff1223cf1d
+  number: 323421
+  subject: Feat(NonRegScript): Add IAR template to build Backup Registers Cleaner binary
+  owner:
+    name: Philippe LE NORMAND
+    email: philippe.lenormand@st.com
+    username: normandp
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/323421
+  hashtags:
+  createdOn: 2023-08-21 16:45:22 CEST
+  lastUpdated: 2024-01-10 13:25:36 CET
+  open: true
+  status: NEW
+
+change I93f81330d1f4c9a3d4492905050fc9a8ba3fdb9e
+  project: stm32cube/internal/tools
+  branch: master
+  id: I93f81330d1f4c9a3d4492905050fc9a8ba3fdb9e
+  number: 326578
+  subject: fix(Automation): Fix missing Rx message length argument in the command 'I2C_WRITE_READ'
+  owner:
+    name: Philippe LE NORMAND
+    email: philippe.lenormand@st.com
+    username: normandp
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/326578
+  hashtags:
+  createdOn: 2023-09-08 11:41:15 CEST
+  lastUpdated: 2024-01-10 13:25:20 CET
+  open: true
+  status: NEW
+
+change I244217902784abfc76349243e10075435eda67cd
+  project: stm32cube/internal/tools
+  branch: iso/tpb
+  id: I244217902784abfc76349243e10075435eda67cd
+  number: 325778
+  subject: feat(TestsPlanBuilder): Change Python Module installation
+  owner:
+    name: Philippe LE NORMAND
+    email: philippe.lenormand@st.com
+    username: normandp
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/325778
+  hashtags:
+  createdOn: 2023-09-04 18:43:25 CEST
+  lastUpdated: 2024-01-10 13:25:12 CET
+  open: true
+  status: NEW
+
+change I86c00365d8ca8981b4ba81c2e78eafe41b5b4713
+  project: stm32cube/internal/tools
+  branch: master
+  id: I86c00365d8ca8981b4ba81c2e78eafe41b5b4713
+  number: 322629
+  subject: ci(Script-for-jenkins): fix script to generate csv file with counted results
+  owner:
+    name: Mael DONNARD
+    email: mael.donnard-ext@st.com
+    username: donnardm
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/322629
+  hashtags:
+  createdOn: 2023-08-11 16:12:12 CEST
+  lastUpdated: 2024-01-10 13:24:54 CET
+  open: true
+  status: NEW
+
+change I0419fe920bdb02c71a029d462b2114807b22e778
+  project: stm32cube/internal/tools
+  branch: master
+  id: I0419fe920bdb02c71a029d462b2114807b22e778
+  number: 300763
+  subject: [update] limit the print of errors to 2 lines
+  owner:
+    name: Rabie ABDAOUI
+    email: rabie.abdaoui@st.com
+    username: abdaouir
+  url: https://gerrit.st.com/c/stm32cube/internal/tools/+/300763
+  hashtags:
+  createdOn: 2023-04-14 11:43:42 CEST
+  lastUpdated: 2024-01-10 13:24:16 CET
+  open: true
+  status: NEW
+
+change I4025a2db5e4a9b52657b6104d91e0e69da9a73e4
+  project: stm32cube/comp/ina230
+  branch: master
+  id: I4025a2db5e4a9b52657b6104d91e0e69da9a73e4
+  number: 104536
+  subject: [G0][USBPD][disco] Add mutex lock/ unlock mechanism with freeRTOS  to solve conflits between VBUS measurements and LCD both using I2C
+  owner:
+    name: Nicolas PERRIN
+    email: nicolas.perrin@st.com
+    username: frq07402
+  url: https://gerrit.st.com/c/stm32cube/comp/ina230/+/104536
+  hashtags:
+  createdOn: 2018-08-31 17:36:11 CEST
+  lastUpdated: 2023-11-06 16:48:49 CET
+  open: true
+  status: NEW
+
+type: stats
+rowCount: 46
+runTimeMilliseconds: 8
+moreChanges: false
+

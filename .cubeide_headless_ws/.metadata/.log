@@ -1,0 +1,96 @@
+!SESSION 2026-03-17 05:37:02.814 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/GPIO/GPIO_IOToggle/STM32CubeIDE/Appli -build GPIO_IOToggle_Appli/Debug
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data /home/user/python_projects/EmbeddedX/projects/soot_detector/.cubeide_headless_ws -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/GPIO/GPIO_IOToggle/STM32CubeIDE/Appli -build GPIO_IOToggle_Appli/Debug
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-03-17 05:37:06.976
+!MESSAGE Indexed 'GPIO_IOToggle_Appli' (6 sources, 26 headers) in 0.738 sec: 945 declarations; 1,424 references; 11 unresolved inclusions; 3 syntax errors; 192 unresolved names (7.5%)
+!SESSION 2026-03-17 05:41:28.210 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Templates/Template/STM32CubeIDE/Boot -cleanBuild Template_Boot/Debug
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data /home/user/python_projects/EmbeddedX/projects/soot_detector/.cubeide_headless_ws -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Templates/Template/STM32CubeIDE/Boot -cleanBuild Template_Boot/Debug
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-03-17 05:41:34.318
+!MESSAGE Indexed 'Template_Boot' (21 sources, 86 headers) in 3.08 sec: 8,168 declarations; 39,685 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0042%)
+!SESSION 2026-03-17 05:51:02.111 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/STM32CubeIDE/Appli -cleanBuild BSP_Appli/Debug
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data /home/user/python_projects/EmbeddedX/projects/soot_detector/.cubeide_headless_ws -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/STM32CubeIDE/Appli -cleanBuild BSP_Appli/Debug
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-03-17 05:51:08.312
+!MESSAGE Indexed 'BSP_Appli' (50 sources, 135 headers) in 3.2 sec: 18,245 declarations; 116,362 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0015%)
+!SESSION 2026-03-17 06:07:20.739 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Appli -cleanBuild MSC_Standalone_Appli/Debug
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data /home/user/python_projects/EmbeddedX/projects/soot_detector/.cubeide_headless_ws -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Appli -cleanBuild MSC_Standalone_Appli/Debug
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-03-17 06:07:28.320
+!MESSAGE Indexed 'MSC_Standalone_Appli' (74 sources, 160 headers) in 4.34 sec: 21,373 declarations; 121,480 references; 5 unresolved inclusions; 1 syntax errors; 344 unresolved names (0.24%)
+!SESSION 2026-03-17 06:18:06.442 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Appli -cleanBuild MSC_Standalone_Appli/Debug
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data /home/user/python_projects/EmbeddedX/projects/soot_detector/.cubeide_headless_ws -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Appli -cleanBuild MSC_Standalone_Appli/Debug
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2026-03-17 06:18:09.679
+!MESSAGE Ignored L/MSC_Standalone_Appli/Drivers/BSP/Components/rk050hr18.c from Makefile generation (invalid resource)
+!SESSION 2026-03-17 06:18:33.135 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Appli -cleanBuild MSC_Standalone_Appli/Debug
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data /home/user/python_projects/EmbeddedX/projects/soot_detector/.cubeide_headless_ws -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Appli -cleanBuild MSC_Standalone_Appli/Debug
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2026-03-17 06:18:36.500
+!MESSAGE Ignored L/MSC_Standalone_Appli/Drivers/BSP/Components/rk050hr18.c from Makefile generation (invalid resource)
+!SESSION 2026-03-17 06:20:01.031 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Appli -cleanBuild MSC_Standalone_Appli/Debug
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data /home/user/python_projects/EmbeddedX/projects/soot_detector/.cubeide_headless_ws -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Appli -cleanBuild MSC_Standalone_Appli/Debug
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2026-03-17 06:20:04.521
+!MESSAGE Ignored L/MSC_Standalone_Appli/Drivers/BSP/Components/rk050hr18.c from Makefile generation (invalid resource)
+!SESSION 2026-03-17 06:20:40.745 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Appli -cleanBuild MSC_Standalone_Appli/Debug
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data /home/user/python_projects/EmbeddedX/projects/soot_detector/.cubeide_headless_ws -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Appli -cleanBuild MSC_Standalone_Appli/Debug
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2026-03-17 06:20:48.418
+!MESSAGE Ignored L/MSC_Standalone_Appli/Drivers/BSP/Components/rk050hr18.c from Makefile generation (invalid resource)
+!SESSION 2026-03-17 06:21:44.230 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Boot -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Appli -cleanBuild MSC_Standalone_Boot/Release -cleanBuild MSC_Standalone_Appli/Release
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data /home/user/python_projects/EmbeddedX/projects/soot_detector/.cubeide_headless_ws -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Boot -import /home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/STM32CubeIDE/Appli -cleanBuild MSC_Standalone_Boot/Release -cleanBuild MSC_Standalone_Appli/Release
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain.arm-none.oss 2 2 2026-03-17 06:21:49.439
+!MESSAGE Ignored L/MSC_Standalone_Appli/Drivers/BSP/Components/rk050hr18.c from Makefile generation (invalid resource)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-03-17 06:21:58.722
+!MESSAGE Indexed 'MSC_Standalone_Appli' (80 sources, 169 headers) in 9.66 sec: 23,467 declarations; 142,659 references; 0 unresolved inclusions; 1 syntax errors; 68 unresolved names (0.041%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-03-17 06:22:00.962
+!MESSAGE Indexed 'MSC_Standalone_Boot' (31 sources, 99 headers) in 2.14 sec: 10,306 declarations; 51,163 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0033%)

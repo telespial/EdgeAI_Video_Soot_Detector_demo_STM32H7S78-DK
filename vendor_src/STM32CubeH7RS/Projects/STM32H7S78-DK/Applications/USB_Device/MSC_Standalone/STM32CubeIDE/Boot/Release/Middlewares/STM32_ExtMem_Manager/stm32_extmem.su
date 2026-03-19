@@ -1,0 +1,10 @@
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:133:22:EXTMEM_Init	8	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:245:22:EXTMEM_DeInit	8	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:338:22:EXTMEM_Read	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:435:22:EXTMEM_Write	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:538:22:EXTMEM_WriteInMappedMode	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:608:22:EXTMEM_EraseSector	24	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:773:22:EXTMEM_EraseAll	8	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:863:22:EXTMEM_GetInfo	8	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:945:22:EXTMEM_MemoryMappedMode	8	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:1086:22:EXTMEM_GetMapAddress	0	static

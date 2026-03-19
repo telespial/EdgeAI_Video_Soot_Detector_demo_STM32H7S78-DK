@@ -1,0 +1,13 @@
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2268:38:driver_check_FlagBUSY	24	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2303:10:sfdp_getfrequencevalue	48	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2322:20:sfdp_get_paraminfo	24	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1283:20:SFDP_CollectData	40	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1357:20:SFDP_MemoryReset	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2458:20:sfdp_enter_octal_mode	24	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2575:20:sfdp_set_dummycycle	56	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2678:20:JEDEC_Basic_ManageQuadEnableRequirement	24	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2820:20:JEDEC_Basic_Manage4S4S4SEnableSequence	16	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1504:20:SFDP_BuildGenericDriver	56	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:2877:20:CheckSFDP_Signature	8	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1175:20:SFDP_ReadHeader	24	static
+/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_ExtMem_Manager/nor_sfdp/stm32_sfdp_data.c:1226:20:SFDP_GetHeader	56	static
