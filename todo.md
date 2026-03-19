@@ -8,7 +8,7 @@
 
 ## Phase 1: Remove likely descriptor-limit blocker
 1. Update USB host config limits in:
-   - `firmware/STM32H7S78-DK-USB-Demo-Source/Projects/STM32H7S78-DK/Applications/USBPD/USBPD_DRP_DRD/Appli/Inc/usbh_conf.h`
+   - `../../MRD_Studio/sources/cache/stmicroelectronics/examples/soot_detector_st_demo/STM32H7S78-DK-USB-Demo-Source/Projects/STM32H7S78-DK/Applications/USBPD/USBPD_DRP_DRD/Appli/Inc/usbh_conf.h`
 2. Increase:
    - `USBH_MAX_SIZE_CONFIGURATION` (currently `256U`)
    - `USBH_MAX_NUM_INTERFACES` (currently `2U`)

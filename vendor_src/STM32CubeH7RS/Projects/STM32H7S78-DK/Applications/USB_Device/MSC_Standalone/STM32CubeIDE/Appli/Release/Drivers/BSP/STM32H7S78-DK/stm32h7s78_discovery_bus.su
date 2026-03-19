@@ -1,9 +1,0 @@
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:238:9:BSP_I2C1_DeInit	8	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:266:26:MX_I2C1_Init	8	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:187:9:BSP_I2C1_Init	104	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:312:9:BSP_I2C1_WriteReg	24	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:349:9:BSP_I2C1_ReadReg	24	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:386:9:BSP_I2C1_WriteReg16	24	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:423:9:BSP_I2C1_ReadReg16	24	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:459:9:BSP_I2C1_IsReady	8	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/BSP/STM32H7S78-DK/stm32h7s78_discovery_bus.c:481:9:BSP_GetTick	0	static

@@ -1,3 +1,0 @@
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_ll_exti.c:81:13:LL_EXTI_DeInit	0	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_ll_exti.c:120:13:LL_EXTI_Init	16	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_ll_exti.c:292:6:LL_EXTI_StructInit	0	static

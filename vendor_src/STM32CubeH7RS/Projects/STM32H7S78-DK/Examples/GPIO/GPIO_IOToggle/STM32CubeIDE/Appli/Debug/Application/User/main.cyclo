@@ -1,5 +1,0 @@
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/GPIO/GPIO_IOToggle/Appli/Src/main.c:66:5:main	5
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/GPIO/GPIO_IOToggle/Appli/Src/main.c:132:13:MX_GPIO_Init	1
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/GPIO/GPIO_IOToggle/Appli/Src/main.c:171:13:MPU_Config	4
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/GPIO/GPIO_IOToggle/Appli/Src/main.c:334:13:MPU_AdjustRegionAddressSize	5
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/GPIO/GPIO_IOToggle/Appli/Src/main.c:374:6:Error_Handler	1

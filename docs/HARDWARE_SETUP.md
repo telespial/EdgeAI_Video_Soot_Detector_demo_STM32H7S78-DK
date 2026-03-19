@@ -9,7 +9,7 @@
 
 Reference artifacts:
 - Backup binaries: `firmware_backups/`
-- Board firmware source base: `firmware/STM32H7S78-DK-USB-Demo-Source/`
+- Board firmware source base: `../../MRD_Studio/sources/cache/stmicroelectronics/examples/soot_detector_st_demo/STM32H7S78-DK-USB-Demo-Source/`
 
 Current webcam bug note:
 - Webcam powers on USB1 but remains in red-LED idle state (stream not active yet).

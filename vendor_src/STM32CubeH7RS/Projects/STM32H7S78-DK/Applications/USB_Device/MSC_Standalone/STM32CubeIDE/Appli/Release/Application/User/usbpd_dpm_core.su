@@ -1,6 +1,0 @@
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_dpm_core.c:273:13:USBPD_DPM_CADTaskWakeUp	0	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_dpm_core.c:289:6:USBPD_DPM_CADCallback	8	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_dpm_core.c:100:21:USBPD_DPM_InitCore	16	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_dpm_core.c:141:21:USBPD_DPM_InitOS	0	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_dpm_core.c:239:6:USBPD_DPM_Run	8	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_dpm_core.c:320:13:USBPD_DPM_ErrorHandler	0	static

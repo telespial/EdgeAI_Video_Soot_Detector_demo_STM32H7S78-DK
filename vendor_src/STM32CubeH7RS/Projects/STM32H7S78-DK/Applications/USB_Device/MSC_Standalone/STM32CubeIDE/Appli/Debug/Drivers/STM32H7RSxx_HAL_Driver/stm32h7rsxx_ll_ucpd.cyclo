@@ -1,8 +1,0 @@
-../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_ucpd.h:358:22:LL_UCPD_Disable	1
-../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_bus.h:1800:22:LL_APB1_GRP2_EnableClock	1
-../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_bus.h:1840:22:LL_APB1_GRP2_DisableClock	1
-../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_bus.h:1858:22:LL_APB1_GRP2_ForceReset	1
-../../../../../../../../Drivers/STM32H7RSxx_HAL_Driver/Inc/stm32h7rsxx_ll_bus.h:1876:22:LL_APB1_GRP2_ReleaseReset	1
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_ll_ucpd.c:79:13:LL_UCPD_DeInit	2
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_ll_ucpd.c:115:13:LL_UCPD_Init	2
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Drivers/STM32H7RSxx_HAL_Driver/Src/stm32h7rsxx_ll_ucpd.c:143:6:LL_UCPD_StructInit	1

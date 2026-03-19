@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-ROOT="/home/user/python_projects/EmbeddedX/projects/soot_detector/firmware/STM32H7S78-DK-USB-Demo-Source/Projects/STM32H7S78-DK/Applications/USBPD/USBPD_DRP_DRD"
+ROOT="/home/user/python_projects/EmbeddedX/MRD_Studio/sources/cache/stmicroelectronics/examples/soot_detector_st_demo/STM32H7S78-DK-USB-Demo-Source/Projects/STM32H7S78-DK/Applications/USBPD/USBPD_DRP_DRD"
 BUILD_DIR="$ROOT/STM32CubeIDE/Appli/Debug"
 BIN="$BUILD_DIR/USBPD_DRP_DRD_Appli.bin"
 LOADER="/usr/local/STMicroelectronics/STM32Cube/STM32CubeProgrammer/api/lib/ExternalLoader/MX66UW1G45G_STM32H7S78-DK.stldr"

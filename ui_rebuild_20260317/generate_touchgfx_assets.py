@@ -3,7 +3,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path('/home/user/python_projects/EmbeddedX/projects/soot_detector')
-APP = ROOT / 'firmware/STM32H7S78-DK-USB-Demo-Source/Projects/STM32H7S78-DK/Applications/USBPD/USBPD_DRP_DRD/TouchGFX'
+APP = ROOT.parent.parent / 'MRD_Studio/sources/cache/stmicroelectronics/examples/soot_detector_st_demo/STM32H7S78-DK-USB-Demo-Source/Projects/STM32H7S78-DK/Applications/USBPD/USBPD_DRP_DRD/TouchGFX'
 NEW = ROOT / 'ui_rebuild_20260317'
 ASSETS = APP / 'assets/images'
 GEN = APP / 'generated/images/src'

@@ -2,7 +2,7 @@
 
 ## Scope
 - Board: `STM32H7S78-DK`
-- Firmware work area: `firmware/STM32H7S78-DK-USB-Demo-Source/`
+- Firmware work area: `../../MRD_Studio/sources/cache/stmicroelectronics/examples/soot_detector_st_demo/STM32H7S78-DK-USB-Demo-Source/`
 - Splash-flow module: `firmware/stm32h7s78dk/`
 - Active bug work area: `Projects/STM32H7S78-DK/Applications/USBPD/USBPD_DRP_DRD/Appli/Src/usb_host.c`
 

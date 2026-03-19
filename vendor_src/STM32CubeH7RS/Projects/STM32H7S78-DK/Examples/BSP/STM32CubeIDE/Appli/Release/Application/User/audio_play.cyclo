@@ -1,7 +1,0 @@
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/audio_play.c:430:17:GetData	3
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/audio_play.c:403:20:AUDIO_Start	2
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/audio_play.c:450:9:AUDIO_Process	7
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/audio_play.c:89:6:AudioPlay_demo	21
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/audio_play.c:514:6:BSP_AUDIO_OUT_TransferComplete_CallBack	2
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/audio_play.c:528:6:BSP_AUDIO_OUT_HalfTransfer_CallBack	2
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/audio_play.c:542:6:BSP_AUDIO_OUT_Error_CallBack	1

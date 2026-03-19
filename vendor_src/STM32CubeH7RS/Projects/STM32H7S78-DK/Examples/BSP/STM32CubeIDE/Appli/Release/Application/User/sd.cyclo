@@ -1,4 +1,0 @@
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/sd.c:53:6:SD_demo	17
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/sd.c:188:6:BSP_SD_WriteCpltCallback	1
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/sd.c:199:6:BSP_SD_ReadCpltCallback	1
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Examples/BSP/Src/sd.c:210:6:BSP_SD_DetectCallback	1

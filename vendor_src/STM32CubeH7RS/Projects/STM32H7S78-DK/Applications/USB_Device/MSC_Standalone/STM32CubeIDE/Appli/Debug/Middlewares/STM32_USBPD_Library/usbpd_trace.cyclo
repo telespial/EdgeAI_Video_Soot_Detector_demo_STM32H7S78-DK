@@ -1,3 +1,0 @@
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_USBPD_Library/Core/src/usbpd_trace.c:94:6:USBPD_TRACE_Init	1
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_USBPD_Library/Core/src/usbpd_trace.c:124:6:USBPD_TRACE_DeInit	1
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Middlewares/ST/STM32_USBPD_Library/Core/src/usbpd_trace.c:131:7:USBPD_TRACE_Add	1

@@ -1,4 +1,0 @@
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_dpm_user.c:129:6:USBPD_DPM_WaitForTime	0	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_dpm_user.c:139:6:USBPD_DPM_UserExecute	0	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_dpm_user.c:152:6:USBPD_DPM_UserCableDetection	0	static
-/home/user/python_projects/EmbeddedX/projects/soot_detector/vendor_src/STM32CubeH7RS/Projects/STM32H7S78-DK/Applications/USB_Device/MSC_Standalone/Appli/Src/usbpd_dpm_user.c:173:6:USBPD_DPM_Notification	0	static

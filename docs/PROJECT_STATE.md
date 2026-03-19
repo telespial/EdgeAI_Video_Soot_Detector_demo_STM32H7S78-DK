@@ -84,4 +84,4 @@ Prevention:
 5. If needed, restore from saved backup binary.
 
 - Splash primary text updated in firmware source to `FUTURE ELECTRONICS FIRE DEMO`.
-- Added ST board support source clone at `vendor_src/stm32h7s78-dk-bsp/` for local firmware integration work.
+- Added ST board support source clone at `../../MRD_Studio/sources/cache/stmicroelectronics/examples/soot_detector_st_demo/stm32h7s78-dk-bsp/` for local firmware integration work.
